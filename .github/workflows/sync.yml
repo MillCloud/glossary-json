@@ -1,0 +1,23 @@
+# https://vuepress.github.io/zh/guide/deployment.html#github-pages
+name: sync
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@master
+        with:
+          source-repo: git@github.com:MillCloud/glossary-json.git
+          destination-repo: git@gitee.com:MillCloud/glossary-json.git
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.RSA_PRIVATE_KEY }}
