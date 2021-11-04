@@ -1,4 +1,6 @@
 {
+  "data": ["数据"],
+  "data item": ["数据项"],
   "declarative": ["声明式的"],
   "dish": ["菜式"],
   "dishes": ["菜式（复数）"],
