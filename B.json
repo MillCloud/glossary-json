@@ -3,6 +3,8 @@
   "branches": ["分店（复数）"],
   "本地的": ["local"],
   "本地地": ["locally"],
+  "表达式": ["expression"],
+  "表达式（复数）": ["expressions"],
   "布局": ["layout"],
   "布局（复数）": ["layouts"]
 }

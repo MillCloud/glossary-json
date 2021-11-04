@@ -3,6 +3,7 @@
   "状态机": ["state machine"],
   "资产": ["asset"],
   "资产（复数）": ["assets"],
+  "组合": ["composition"],
   "组件": ["component"],
   "组件（复数）": ["components"]
 }

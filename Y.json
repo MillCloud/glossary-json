@@ -12,5 +12,8 @@
   "有限状态机": ["finite state machine"],
   "有状态的": ["stateful"],
   "语法": ["grammar", "syntax"],
-  "元": ["meta"]
+  "元": ["meta"],
+  "源": ["source", "src"],
+  "元素": ["element"],
+  "元素（复数）": ["elements"]
 }

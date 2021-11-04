@@ -1,4 +1,7 @@
 {
+  "second": ["第二"],
+  "source": ["源"],
+  "src": ["源"],
   "state": ["状态"],
   "stateful": ["有状态的"],
   "stateless": ["无状态的"],
@@ -17,7 +20,12 @@
   "视图": ["view"],
   "视图模型": ["view model"],
   "守卫": ["guard"],
+  "首页": ["index"],
   "受控的": ["controlled"],
+  "属性": ["attribute"],
+  "属性（复数）": ["attributes"],
   "数据": ["data"],
-  "数据项": ["data item"]
+  "数据项": ["data item"],
+  "索引": ["index"],
+  "索引（复数）": ["indexes"]
 }

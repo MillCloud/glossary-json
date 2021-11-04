@@ -3,5 +3,6 @@
   "pages": ["页面（复数）"],
   "plugin": ["插件"],
   "plugins": ["插件（复数）"],
-  "program": ["程序"]
+  "program": ["程序"],
+  "public": ["公共的"]
 }

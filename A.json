@@ -3,5 +3,7 @@
   "application": ["应用"],
   "applications": ["应用（复数）"],
   "asset": ["资产"],
-  "assets": ["资产（复数）"]
+  "assets": ["资产（复数）"],
+  "attribute": ["属性"],
+  "attributes": ["属性（复数）"]
 }

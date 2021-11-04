@@ -3,6 +3,9 @@
   "globally": ["全局地"],
   "grammar": ["语法"],
   "guard": ["守卫"],
+  "公共的": ["public"],
+  "国内的": ["internal"],
+  "国外的": ["external"],
   "过时": ["legacy"],
   "过时的": ["legacy", "outdated"]
 }
