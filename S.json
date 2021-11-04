@@ -1,5 +1,6 @@
 {
   "student": ["学生"],
   "students": ["学生（复数）"],
-  "syntax": ["语法"]
+  "syntax": ["语法"],
+  "声明式的": ["declarative"]
 }
