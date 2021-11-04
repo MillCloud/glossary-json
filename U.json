@@ -1,3 +1,7 @@
 {
-  "uncontrolled": ["非受控的"]
+  "uncontrolled": ["非受控的"],
+  "util": ["实用工具"],
+  "utility": ["实用工具"],
+  "utilities": ["实用工具（复数）"],
+  "utils": ["实用工具（复数）"]
 }

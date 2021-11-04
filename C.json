@@ -5,6 +5,7 @@
   "controller": ["控制器"],
   "菜式": ["dish"],
   "菜式（复数）": ["dishes"],
+  "仓库": ["store"],
   "插件": ["plugin"],
   "插件（复数）": ["plugins"],
   "程序": ["program"]

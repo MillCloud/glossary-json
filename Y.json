@@ -1,10 +1,12 @@
 {
+  "样式": ["style"],
+  "样式（复数）": ["styles"],
   "页面": ["page"],
   "页面（复数）": ["pages"],
   "遗留": ["legacy"],
   "饮品": ["drink"],
   "饮品（复数）": ["drinks"],
-  "应用": ["application"],
+  "应用": ["app", "application"],
   "应用（复数）": ["applications"],
   "有限状态机": ["finite state machine"],
   "有状态的": ["stateful"],
