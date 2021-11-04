@@ -1,3 +1,5 @@
 {
-  "functional": ["函数式的"]
+  "functional": ["函数式的"],
+  "分店": ["branch"],
+  "分店（复数）": ["branches"]
 }

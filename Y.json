@@ -1,4 +1,6 @@
 {
   "遗留": ["legacy"],
+  "饮品": ["drink"],
+  "饮品（复数）": ["drinks"],
   "语法": ["grammar", "syntax"]
 }
