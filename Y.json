@@ -1,4 +1,5 @@
 {
+  "yuan": ["人民币元"],
   "样式": ["style"],
   "样式（复数）": ["styles"],
   "页面": ["page"],
@@ -10,5 +11,6 @@
   "应用（复数）": ["applications"],
   "有限状态机": ["finite state machine"],
   "有状态的": ["stateful"],
-  "语法": ["grammar", "syntax"]
+  "语法": ["grammar", "syntax"],
+  "元": ["meta"]
 }

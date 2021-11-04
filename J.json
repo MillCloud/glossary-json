@@ -1,4 +1,7 @@
 {
+  "jiao": ["人民币角"],
   "教师": ["teacher"],
-  "教师（复数）": ["teachers"]
+  "教师（复数）": ["teachers"],
+  "局部的": ["local"],
+  "局部地": ["locally"]
 }

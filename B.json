@@ -1,6 +1,8 @@
 {
   "branch": ["分店"],
   "branches": ["分店（复数）"],
+  "本地的": ["local"],
+  "本地地": ["locally"],
   "布局": ["layout"],
   "布局（复数）": ["layouts"]
 }
