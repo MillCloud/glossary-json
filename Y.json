@@ -1,3 +1,4 @@
 {
-  "遗留": ["legacy"]
+  "遗留": ["legacy"],
+  "语法": ["grammar", "syntax"]
 }

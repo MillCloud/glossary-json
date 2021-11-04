@@ -1,4 +1,5 @@
 {
   "student": ["学生"],
-  "students": ["学生（复数）"]
+  "students": ["学生（复数）"],
+  "syntax": ["语法"]
 }

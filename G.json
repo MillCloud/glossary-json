@@ -1,4 +1,5 @@
 {
+  "grammar": ["语法"],
   "过时": ["legacy"],
   "过时的": ["legacy", "outdated"]
 }
