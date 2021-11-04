@@ -1,4 +1,6 @@
 {
+  "状态": ["state"],
+  "状态机": ["state machine"],
   "组件": ["component"],
   "组件（复数）": ["components"]
 }

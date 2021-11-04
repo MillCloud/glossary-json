@@ -1,4 +1,8 @@
 {
+  "state": ["状态"],
+  "stateful": ["有状态的"],
+  "stateless": ["无状态的"],
+  "state machine": ["状态机"],
   "student": ["学生"],
   "students": ["学生（复数）"],
   "syntax": ["语法"],

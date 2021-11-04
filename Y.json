@@ -2,5 +2,7 @@
   "遗留": ["legacy"],
   "饮品": ["drink"],
   "饮品（复数）": ["drinks"],
+  "有限状态机": ["finite state machine"],
+  "有状态的": ["stateful"],
   "语法": ["grammar", "syntax"]
 }
