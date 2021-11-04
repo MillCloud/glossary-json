@@ -1,1 +1,4 @@
-{}
+{
+  "过时": ["legacy"],
+  "过时的": ["legacy", "outdated"]
+}
