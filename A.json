@@ -1,4 +1,6 @@
 {
   "application": ["应用"],
-  "applications": ["应用（复数）"]
+  "applications": ["应用（复数）"],
+  "asset": ["资产"],
+  "assets": ["资产（复数）"]
 }
