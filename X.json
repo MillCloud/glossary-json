@@ -1,4 +1,5 @@
 {
+  "小程序": ["miniprogram"],
   "选项": ["option"],
   "选项（复数）": ["options"],
   "渲染": ["render"],
