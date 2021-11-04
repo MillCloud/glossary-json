@@ -4,5 +4,7 @@
   "plugin": ["插件"],
   "plugins": ["插件（复数）"],
   "program": ["程序"],
+  "prop": ["prop"],
+  "props": ["prop（复数）"],
   "public": ["公共的"]
 }

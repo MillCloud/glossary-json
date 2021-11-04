@@ -9,5 +9,6 @@
   "仓库": ["store"],
   "插件": ["plugin"],
   "插件（复数）": ["plugins"],
-  "程序": ["program"]
+  "程序": ["program"],
+  "处理": ["handle"]
 }
