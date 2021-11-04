@@ -2,6 +2,7 @@
   "component": ["组件"],
   "components": ["组件（复数）"],
   "controlled": ["受控的"],
+  "controller": ["控制器"],
   "菜式": ["dish"],
   "菜式（复数）": ["dishes"]
 }
