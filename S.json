@@ -2,5 +2,6 @@
   "student": ["学生"],
   "students": ["学生（复数）"],
   "syntax": ["语法"],
-  "声明式的": ["declarative"]
+  "声明式的": ["declarative"],
+  "受控的": ["controlled"]
 }
