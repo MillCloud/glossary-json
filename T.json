@@ -3,5 +3,6 @@
   "teachers": ["教师（复数）", "老师（复数）"],
   "third": ["第三", "第三方"],
   "time": ["时间"],
-  "timestamp": ["时间戳"]
+  "timestamp": ["时间戳"],
+  "条件": ["condition"]
 }

@@ -9,6 +9,7 @@
   "饮品（复数）": ["drinks"],
   "应用": ["app", "application"],
   "应用（复数）": ["applications"],
+  "有条件的": ["conditional"],
   "有限状态机": ["finite state machine"],
   "有状态的": ["stateful"],
   "语法": ["grammar", "syntax"],
