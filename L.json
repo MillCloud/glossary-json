@@ -6,6 +6,7 @@
   "local": ["局部的", "本地的"],
   "老师": ["teacher"],
   "老师（复数）": ["teachers"],
+  "类": ["class"],
   "例如": ["for example"],
   "浏览器对象模型": ["browser object model"],
   "浏览器引擎": ["vendor"],

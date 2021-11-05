@@ -1,8 +1,16 @@
 {
+  "ui": ["ui", "user interface", "用户界面"],
+  "uid": ["uid", "user interface", "用户界面涉及"],
   "unconditional": ["无条件的"],
   "uncontrolled": ["非受控的"],
+  "user experience": ["用户体验"],
+  "user experience design": ["用户体验设计"],
+  "user interface": ["用户界面"],
+  "user interface design": ["用户界面设计"],
   "util": ["实用工具"],
   "utility": ["实用工具"],
   "utilities": ["实用工具（复数）"],
-  "utils": ["实用工具（复数）"]
+  "utils": ["实用工具（复数）"],
+  "ux": ["ux", "user experience", "用户体验"],
+  "uxd": ["uxd", "user experience design", "用户体验设计"]
 }
