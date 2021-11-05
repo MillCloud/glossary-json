@@ -11,6 +11,8 @@
   "properties": ["属性（复数）"],
   "property": ["属性"],
   "props": ["properties", "属性（复数）"],
+  "provide": ["供应"],
+  "provider": ["供应商"],
   "public": ["公共的"],
   "派生的": ["derived"],
   "片段": ["fragment"],

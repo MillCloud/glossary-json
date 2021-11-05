@@ -12,5 +12,6 @@
   "废弃的": ["deprecated"],
   "分店": ["branch"],
   "分店（复数）": ["branches"],
+  "服务": ["service"],
   "复用": ["reuse"]
 }

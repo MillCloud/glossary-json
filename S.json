@@ -1,6 +1,10 @@
 {
+  "search engine optimization": ["搜索引擎优化"],
   "second": ["第二"],
   "section": ["章节"],
+  "semantic": ["语义化的"],
+  "seo": ["search engine optimization", "搜索引擎优化"],
+  "service": ["服务"],
   "shallow": ["浅层", "浅层的"],
   "signature": ["签名"],
   "source": ["源"],
@@ -37,6 +41,7 @@
   "数据": ["data"],
   "数据项": ["data item"],
   "数组": ["array"],
+  "搜索引擎优化": ["search engine optimization"],
   "索引": ["index"],
   "索引（复数）": ["indexes"]
 }

@@ -1,4 +1,6 @@
 {
+  "消费": ["consume"],
+  "消费者": ["consumer"],
   "小程序": ["miniprogram"],
   "协调": ["reconciliation"],
   "选项": ["option"],
