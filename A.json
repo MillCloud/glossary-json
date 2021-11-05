@@ -5,6 +5,8 @@
   "assert": ["断言"],
   "asset": ["资产"],
   "assets": ["资产（复数）"],
+  "attr": ["attribute", "属性"],
   "attribute": ["属性"],
-  "attributes": ["属性（复数）"]
+  "attributes": ["属性（复数）"],
+  "attrs": ["attributes", "属性（复数）"]
 }

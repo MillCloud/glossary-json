@@ -5,8 +5,10 @@
   "plugins": ["插件（复数）"],
   "prefix": ["前缀"],
   "program": ["程序"],
-  "prop": ["prop"],
-  "props": ["prop（复数）"],
+  "prop": ["property", "属性"],
+  "properties": ["属性（复数）"],
+  "property": ["属性"],
+  "props": ["properties", "属性（复数）"],
   "public": ["公共的"],
   "派生的": ["derived"],
   "破坏性更新": ["breaking change"]

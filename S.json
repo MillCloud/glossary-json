@@ -5,7 +5,7 @@
   "signature": ["签名"],
   "source": ["源"],
   "src": ["源"],
-  "state": ["状态"],
+  "state": ["state", "状态"],
   "stateful": ["有状态的"],
   "stateless": ["无状态的"],
   "state machine": ["状态机"],
