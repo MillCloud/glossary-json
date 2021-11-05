@@ -3,6 +3,7 @@
   "pages": ["页面（复数）"],
   "plugin": ["插件"],
   "plugins": ["插件（复数）"],
+  "prefix": ["前缀"],
   "program": ["程序"],
   "prop": ["prop"],
   "props": ["prop（复数）"],

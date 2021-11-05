@@ -2,6 +2,7 @@
   "global": ["全局的"],
   "grammar": ["语法"],
   "guard": ["守卫"],
+  "高阶组件": ["HOC", "higher-order component"],
   "公共的": ["public"],
   "关注点": ["concern"],
   "国内的": ["internal"],

@@ -12,6 +12,7 @@
   "students": ["学生（复数）"],
   "style": ["样式"],
   "styles": ["样式（复数）"],
+  "suffix": ["后缀"],
   "syntax": ["语法"],
   "声明式的": ["declarative"],
   "生命周期": ["lifecycle"],

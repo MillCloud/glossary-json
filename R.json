@@ -1,7 +1,9 @@
 {
   "readme": ["读我"],
+  "reconciliation": ["协调"],
   "refactor": ["重构"],
   "render": ["渲染"],
+  "reusable": ["可复用的"],
   "reuse": ["复用"],
   "rewrite": ["重写"],
   "route": ["路由"],

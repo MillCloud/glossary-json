@@ -1,4 +1,5 @@
 {
+  "fallback": ["降级"],
   "fen": ["人民币分"],
   "finite state machine": ["有限状态机"],
   "first": ["第一"],

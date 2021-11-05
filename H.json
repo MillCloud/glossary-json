@@ -1,7 +1,10 @@
 {
   "handle": ["处理"],
+  "higher-order component": ["HOC", "高阶组件"],
+  "HOC": ["higher-order component", "高阶组件"],
   "函数": ["function"],
   "函数式的": ["functional"],
   "横切": ["cross-cutting"],
+  "后缀": ["suffix"],
   "回调": ["callback"]
 }

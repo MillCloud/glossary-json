@@ -5,6 +5,7 @@
   "页面": ["page"],
   "页面（复数）": ["pages"],
   "遗留": ["legacy"],
+  "引擎": ["vendor"],
   "饮品": ["drink"],
   "饮品（复数）": ["drinks"],
   "应用": ["app", "application"],

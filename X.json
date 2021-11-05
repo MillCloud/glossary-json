@@ -1,5 +1,6 @@
 {
   "小程序": ["miniprogram"],
+  "协调": ["reconciliation"],
   "选项": ["option"],
   "选项（复数）": ["options"],
   "渲染": ["render"],
