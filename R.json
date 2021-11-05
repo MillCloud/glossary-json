@@ -1,4 +1,5 @@
 {
+  "reactive": ["响应式的"],
   "readme": ["读我"],
   "reconciliation": ["协调"],
   "ref": ["ref", "reference", "参考", "引用"],

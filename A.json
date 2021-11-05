@@ -1,6 +1,8 @@
 {
+  "api": ["application programming interface", "应用编程接口"],
   "app": ["application", "应用"],
   "application": ["app", "应用"],
+  "application programming interface": ["api", "应用编程接口"],
   "array": ["数组"],
   "assert": ["断言"],
   "asset": ["资产"],

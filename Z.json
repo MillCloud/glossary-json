@@ -1,5 +1,6 @@
 {
   "章节": ["section"],
+  "注入": ["inject"],
   "注意": ["note"],
   "状态": ["state"],
   "状态机": ["state machine"],

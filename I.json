@@ -2,6 +2,7 @@
   "index": ["首页", "索引"],
   "indices": ["索引（复数）"],
   "inheritance": ["继承"],
+  "inject": ["注入"],
   "internal": ["内部的", "国内的"],
   "internet": ["互联网"],
   "internet service provider": ["isp", "互联网服务供应商"],
