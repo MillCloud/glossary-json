@@ -1,6 +1,7 @@
 {
   "teacher": ["教师", "老师"],
   "teachers": ["教师（复数）", "老师（复数）"],
+  "teleport": ["teleport", "传送门"],
   "third": ["第三", "第三方"],
   "time": ["时间"],
   "timestamp": ["时间戳"],

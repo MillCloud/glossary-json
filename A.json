@@ -1,13 +1,10 @@
 {
-  "app": ["应用"],
-  "application": ["应用"],
-  "applications": ["应用（复数）"],
+  "app": ["application", "应用"],
+  "application": ["app", "应用"],
   "array": ["数组"],
   "assert": ["断言"],
   "asset": ["资产"],
   "assets": ["资产（复数）"],
   "attr": ["attribute", "属性"],
-  "attribute": ["属性"],
-  "attributes": ["属性（复数）"],
-  "attrs": ["attributes", "属性（复数）"]
+  "attribute": ["attribute", "属性"]
 }

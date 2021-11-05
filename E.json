@@ -1,6 +1,6 @@
 {
-  "element": ["元素"],
-  "elements": ["元素（复数）"],
+  "el": ["element", "元素"],
+  "element": ["el", "元素"],
   "escape hatch": ["应急方案"],
   "escape hatches": ["应急方案（复数）"],
   "event": ["事件"],

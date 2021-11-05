@@ -1,9 +1,9 @@
 {
-  "BOM": ["browser object model", "浏览器对象模型"],
+  "bom": ["browser object model", "浏览器对象模型"],
   "branch": ["分店"],
   "branches": ["分店（复数）"],
   "breaking change": ["破坏性更新"],
-  "browser object model": ["浏览器对象模型"],
+  "browser object model": ["bom", "浏览器对象模型"],
   "build": ["build", "构建"],
   "builder": ["builder", "构建工具"],
   "bundle": ["bundle", "捆绑"],

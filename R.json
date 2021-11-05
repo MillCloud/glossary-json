@@ -1,10 +1,10 @@
 {
   "readme": ["读我"],
   "reconciliation": ["协调"],
-  "ref": ["ref", "reference", "引用"],
+  "ref": ["ref", "reference", "参考", "引用"],
   "refactor": ["重构"],
-  "reference": ["参考", "引用"],
-  "render": ["渲染"],
+  "reference": ["ref", "参考", "引用"],
+  "render": ["render", "渲染"],
   "reusable": ["可复用的"],
   "reuse": ["复用"],
   "rewrite": ["重写"],

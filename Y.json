@@ -20,8 +20,7 @@
   "语义化的": ["semantic"],
   "元": ["meta"],
   "源": ["source", "src"],
-  "元素": ["element"],
-  "元素（复数）": ["elements"],
+  "元素": ["el", "element"],
   "运算符": ["operator"],
   "运算符（复数）": ["operators"]
 }

@@ -1,6 +1,6 @@
 {
   "callback": ["回调"],
-  "cascading style sheets": ["层叠样式表"],
+  "cascading style sheets": ["css", "层叠样式表"],
   "character": ["字符"],
   "chunk": ["chunk", "块"],
   "class": ["class", "类"],
@@ -20,14 +20,14 @@
   "css": ["cascading style sheets", "层叠样式表"],
   "菜式": ["dish"],
   "菜式（复数）": ["dishes"],
-  "参考": ["reference"],
+  "参考": ["ref", "reference"],
   "仓库": ["store"],
-  "层叠样式表": ["cascading style sheets"],
+  "层叠样式表": ["css", "cascading style sheets"],
   "插件": ["plugin"],
   "插件（复数）": ["plugins"],
   "程序": ["program"],
   "重构": ["refactor"],
   "重写": ["rewrite"],
   "处理": ["handle"],
-  "传送门": ["portal"]
+  "传送门": ["portal", "teleport"]
 }
