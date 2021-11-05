@@ -6,5 +6,6 @@
   "functional": ["函数式的"],
   "非受控的": ["uncontrolled"],
   "分店": ["branch"],
-  "分店（复数）": ["branches"]
+  "分店（复数）": ["branches"],
+  "复用": ["reuse"]
 }

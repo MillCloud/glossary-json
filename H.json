@@ -1,5 +1,6 @@
 {
   "handle": ["处理"],
   "函数": ["function"],
-  "函数式的": ["functional"]
+  "函数式的": ["functional"],
+  "回调": ["callback"]
 }

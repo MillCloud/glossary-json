@@ -1,4 +1,5 @@
 {
+  "callback": ["回调"],
   "component": ["组件"],
   "components": ["组件（复数）"],
   "composition": ["组合"],
@@ -13,5 +14,7 @@
   "插件": ["plugin"],
   "插件（复数）": ["plugins"],
   "程序": ["program"],
+  "重构": ["refactor"],
+  "重写": ["rewrite"],
   "处理": ["handle"]
 }

@@ -1,6 +1,8 @@
 {
   "meta": ["元"],
   "miniprogram": ["小程序"],
+  "mock": ["模拟"],
   "model": ["模型"],
+  "模拟": ["mock"],
   "模型": ["model"]
 }

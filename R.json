@@ -1,6 +1,9 @@
 {
   "readme": ["读我"],
+  "refactor": ["重构"],
   "render": ["渲染"],
+  "reuse": ["复用"],
+  "rewrite": ["重写"],
   "route": ["路由"],
   "routes": ["路由（复数）"],
   "router": ["路由器"],
