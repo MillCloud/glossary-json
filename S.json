@@ -10,6 +10,7 @@
   "stateless": ["无状态的"],
   "state machine": ["状态机"],
   "store": ["仓库"],
+  "string": ["字符串"],
   "student": ["学生"],
   "students": ["学生（复数）"],
   "style": ["样式"],
@@ -35,6 +36,7 @@
   "属性（复数）": ["attributes", "properties"],
   "数据": ["data"],
   "数据项": ["data item"],
+  "数组": ["array"],
   "索引": ["index"],
   "索引（复数）": ["indexes"]
 }
