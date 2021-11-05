@@ -10,8 +10,11 @@
   "bundler": ["bundler", "捆绑工具"],
   "包": ["package"],
   "本地的": ["local"],
+  "标签": ["tag"],
   "表达式": ["expression"],
   "表达式（复数）": ["expressions"],
+  "表单": ["form"],
+  "表格": ["sheet", "table"],
   "布局": ["layout"],
   "布局（复数）": ["layouts"]
 }

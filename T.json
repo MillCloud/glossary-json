@@ -1,12 +1,17 @@
 {
+  "table": ["表格"],
+  "tag": ["标签"],
   "teacher": ["教师", "老师"],
   "teachers": ["教师（复数）", "老师（复数）"],
   "teleport": ["teleport", "传送门"],
+  "text": ["文本"],
+  "textarea": ["多行文本"],
   "third": ["第三", "第三方"],
   "time": ["时间"],
   "timestamp": ["时间戳"],
   "tip": ["提示"],
   "tutorial": ["教程"],
   "提示": ["tip"],
-  "条件": ["condition"]
+  "条件": ["condition"],
+  "退出登录": ["sign out", "log out"]
 }

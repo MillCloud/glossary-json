@@ -4,6 +4,7 @@
   "finite state machine": ["有限状态机"],
   "first": ["第一"],
   "for example": ["例如"],
+  "form": ["表单"],
   "fragment": ["片段"],
   "fragments": ["片段（复数）"],
   "function": ["函数"],
@@ -13,5 +14,6 @@
   "分店": ["branch"],
   "分店（复数）": ["branches"],
   "服务": ["service"],
+  "复选框": ["checkbox"],
   "复用": ["reuse"]
 }

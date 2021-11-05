@@ -5,6 +5,8 @@
   "hook": ["hook", "钩子"],
   "函数": ["function"],
   "函数式的": ["functional"],
+  "行": ["row"],
+  "行列式": ["determinant"],
   "横切": ["cross-cutting"],
   "后缀": ["suffix"],
   "互联网": ["internet"],

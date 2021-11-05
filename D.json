@@ -6,6 +6,7 @@
   "declarative": ["声明式的"],
   "deprecated": ["废弃的"],
   "derived": ["派生的"],
+  "determinant": ["行列式"],
   "dish": ["菜式"],
   "dishes": ["菜式（复数）"],
   "document object model": ["文档对象模型"],
@@ -13,10 +14,16 @@
   "drink": ["饮品"],
   "drinks": ["饮品（复数）"],
   "打包": ["package"],
+  "单选框": ["radio"],
+  "登出": ["sign out", "log out"],
+  "登录": ["sign in", "log in"],
+  "登入": ["sign in", "log in"],
   "第二": ["second"],
   "第三": ["third"],
   "第三方": ["third"],
   "第一": ["first"],
   "读我": ["readme"],
-  "对象": ["object"]
+  "对象": ["object"],
+  "多行文本": ["textarea"],
+  "多选框": ["checkbox"]
 }
