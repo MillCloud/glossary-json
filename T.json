@@ -4,5 +4,8 @@
   "third": ["第三", "第三方"],
   "time": ["时间"],
   "timestamp": ["时间戳"],
+  "tip": ["提示"],
+  "tutorial": ["教程"],
+  "提示": ["tip"],
   "条件": ["condition"]
 }

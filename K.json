@@ -1,4 +1,5 @@
 {
   "可复用的": ["reusable"],
+  "可选的": ["optional"],
   "控制器": ["controller"]
 }

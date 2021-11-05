@@ -2,6 +2,8 @@
   "operator": ["运算符"],
   "operators": ["运算符（复数）"],
   "option": ["选项"],
+  "optional": ["可选的"],
   "options": ["选项（复数）"],
-  "outdated": ["过时的"]
+  "outdated": ["过时的"],
+  "overview": ["概览"]
 }

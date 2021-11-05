@@ -1,4 +1,6 @@
 {
+  "章节": ["section"],
+  "注意": ["note"],
   "状态": ["state"],
   "状态机": ["state machine"],
   "资产": ["asset"],
