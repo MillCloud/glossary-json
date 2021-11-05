@@ -20,5 +20,6 @@
   "程序": ["program"],
   "重构": ["refactor"],
   "重写": ["rewrite"],
-  "处理": ["handle"]
+  "处理": ["handle"],
+  "传送门": ["portal"]
 }
