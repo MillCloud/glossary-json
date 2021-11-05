@@ -2,6 +2,7 @@
   "callback": ["回调"],
   "cascading style sheets": ["层叠样式表"],
   "character": ["字符"],
+  "chunk": ["chunk", "块"],
   "class": ["class", "类"],
   "component": ["组件"],
   "components": ["组件（复数）"],

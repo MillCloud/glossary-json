@@ -1,5 +1,8 @@
 {
   "可复用的": ["reusable"],
   "可选的": ["optional"],
-  "控制器": ["controller"]
+  "控制器": ["controller"],
+  "块": ["chunk"],
+  "捆绑": ["bundle"],
+  "捆绑工具": ["bundler"]
 }

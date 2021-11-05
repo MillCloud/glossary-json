@@ -5,6 +5,8 @@
   "概览": ["overview"],
   "高阶组件": ["HOC", "higher-order component"],
   "公共的": ["public"],
+  "构建": ["build"],
+  "构建工具": ["builder"],
   "关注点": ["concern"],
   "国内的": ["internal"],
   "国外的": ["external"],
