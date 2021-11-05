@@ -6,6 +6,7 @@
   "页面（复数）": ["pages"],
   "遗留": ["legacy"],
   "引擎": ["vendor"],
+  "引用": ["ref", "reference"],
   "饮品": ["drink"],
   "饮品（复数）": ["drinks"],
   "应急方案": ["escape hatch"],
