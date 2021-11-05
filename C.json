@@ -28,6 +28,7 @@
   "程序": ["program"],
   "重构": ["refactor"],
   "重写": ["rewrite"],
+  "重用": ["reuse"],
   "处理": ["handle"],
   "传送门": ["portal", "teleport"]
 }

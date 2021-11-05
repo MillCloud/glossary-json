@@ -6,7 +6,7 @@
   "reference": ["ref", "参考", "引用"],
   "render": ["render", "渲染"],
   "reusable": ["可复用的"],
-  "reuse": ["复用"],
+  "reuse": ["复用", "重用"],
   "rewrite": ["重写"],
   "route": ["路由"],
   "routes": ["路由（复数）"],
