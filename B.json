@@ -1,6 +1,7 @@
 {
   "branch": ["分店"],
   "branches": ["分店（复数）"],
+  "breaking change": ["破坏性更新"],
   "本地的": ["local"],
   "表达式": ["expression"],
   "表达式（复数）": ["expressions"],

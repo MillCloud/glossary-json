@@ -7,5 +7,7 @@
   "program": ["程序"],
   "prop": ["prop"],
   "props": ["prop（复数）"],
-  "public": ["公共的"]
+  "public": ["公共的"],
+  "派生的": ["derived"],
+  "破坏性更新": ["breaking change"]
 }
