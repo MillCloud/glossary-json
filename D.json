@@ -8,6 +8,8 @@
   "derived": ["派生的"],
   "dish": ["菜式"],
   "dishes": ["菜式（复数）"],
+  "document object model": ["文档对象模型"],
+  "DOM": ["DOM", "document object model", "文档对象模型"],
   "drink": ["饮品"],
   "drinks": ["饮品（复数）"],
   "第二": ["second"],
