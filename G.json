@@ -3,6 +3,7 @@
   "grammar": ["语法"],
   "guard": ["守卫"],
   "公共的": ["public"],
+  "关注点": ["concern"],
   "国内的": ["internal"],
   "国外的": ["external"],
   "过时": ["legacy"],

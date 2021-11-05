@@ -2,5 +2,6 @@
   "handle": ["处理"],
   "函数": ["function"],
   "函数式的": ["functional"],
+  "横切": ["cross-cutting"],
   "回调": ["callback"]
 }

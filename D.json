@@ -4,6 +4,7 @@
   "date": ["日期"],
   "datetime": ["日期时间"],
   "declarative": ["声明式的"],
+  "deprecated": ["废弃的"],
   "dish": ["菜式"],
   "dishes": ["菜式（复数）"],
   "drink": ["饮品"],
