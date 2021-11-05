@@ -5,6 +5,7 @@
   "教程": ["tutorial"],
   "教师": ["teacher"],
   "教师（复数）": ["teachers"],
+  "静态的": ["static"],
   "局部的": ["local"],
   "局部地": ["locally"]
 }

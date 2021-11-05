@@ -5,6 +5,8 @@
   "页面": ["page"],
   "页面（复数）": ["pages"],
   "遗留": ["legacy"],
+  "异步": ["async", "asynchronous"],
+  "异步的": ["async", "asynchronous"],
   "引擎": ["vendor"],
   "引用": ["ref", "reference"],
   "饮品": ["drink"],

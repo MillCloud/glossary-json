@@ -11,5 +11,6 @@
   "后缀": ["suffix"],
   "互联网": ["internet"],
   "互联网服务供应商": ["isp", "internet service provider"],
-  "回调": ["callback"]
+  "回调": ["callback"],
+  "混入": ["mixin"]
 }

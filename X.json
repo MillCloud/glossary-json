@@ -1,5 +1,6 @@
 {
   "响应式的": ["reactive"],
+  "响应性": ["reactivity"],
   "消费": ["consume"],
   "消费者": ["consumer"],
   "小程序": ["miniprogram"],

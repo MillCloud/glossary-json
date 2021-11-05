@@ -1,10 +1,12 @@
 {
   "meta": ["元"],
   "miniprogram": ["小程序"],
+  "mixin": ["混入"],
   "mock": ["mock", "模拟"],
   "model": ["model", "模型"],
   "module": ["module", "模块"],
   "模块": ["module"],
   "模拟": ["mock"],
-  "模型": ["model"]
+  "模型": ["model"],
+  "模板": ["template"]
 }

@@ -7,6 +7,8 @@
   "assert": ["断言"],
   "asset": ["资产"],
   "assets": ["资产（复数）"],
+  "async": ["asynchronous", "异步", "异步的"],
+  "asynchronous": ["async", "异步", "异步的"],
   "attr": ["attribute", "属性"],
   "attribute": ["attribute", "属性"]
 }

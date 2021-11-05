@@ -4,6 +4,7 @@
   "teacher": ["教师", "老师"],
   "teachers": ["教师（复数）", "老师（复数）"],
   "teleport": ["teleport", "传送门"],
+  "template": ["模板"],
   "text": ["文本"],
   "textarea": ["多行文本"],
   "third": ["第三", "第三方"],
@@ -13,5 +14,7 @@
   "tutorial": ["教程"],
   "提示": ["tip"],
   "条件": ["condition"],
+  "同步": ["sync", "synchronous"],
+  "同步的": ["sync", "synchronous"],
   "退出登录": ["sign out", "log out"]
 }
