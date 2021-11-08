@@ -13,6 +13,7 @@
   "保护": ["secure"],
   "本地的": ["local"],
   "编译": ["compile"],
+  "变量": ["variable"],
   "标签": ["tag"],
   "表达式": ["expression"],
   "表达式（复数）": ["expressions"],

@@ -1,4 +1,5 @@
 {
+  "variable": ["变量"],
   "vendor": ["vendor", "浏览器引擎", "引擎"],
   "versatile": ["通用的"],
   "view": ["view", "视图"],

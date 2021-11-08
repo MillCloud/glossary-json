@@ -1,11 +1,13 @@
 {
   "table": ["表格"],
   "tag": ["标签"],
+  "target": ["目标"],
   "teacher": ["教师", "老师"],
   "teachers": ["教师（复数）", "老师（复数）"],
   "team": ["团队"],
   "teleport": ["teleport", "传送门"],
   "template": ["模板"],
+  "test": ["测试"],
   "text": ["文本"],
   "textarea": ["多行文本"],
   "theme": ["主题"],

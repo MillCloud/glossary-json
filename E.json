@@ -1,7 +1,10 @@
 {
+  "e2e": ["end-to-end", "端到端"],
   "ecosystem": ["生态系统"],
   "el": ["el", "element", "元素"],
   "element": ["el", "元素"],
+  "end-to-end": ["端到端"],
+  "environment": ["环境"],
   "error": ["错误"],
   "escape hatch": ["应急方案"],
   "escape hatches": ["应急方案（复数）"],
