@@ -10,9 +10,9 @@ const compare = (a, b) => {
 };
 
 try {
-  fs.readdirSync(path.resolve('..', '..'))
+  fs.readdirSync(path.resolve())
     .filter((item) => item.endsWith(".json"))
-    .map((item) => path.resolve('..', '..', item))
+    .map((item) => path.resolve(item))
     .forEach((file) => {
       const content = fs.readFileSync(file, { encoding: "utf-8" });
       const newContent = JSON.stringify(
@@ -30,3 +30,7 @@ try {
 } catch (error) {
   console.error("Error: ", error?.message ?? error);
 }
+
+// test code
+const F = require("./S.json");
+console.log("F", F);
