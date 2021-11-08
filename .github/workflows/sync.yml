@@ -14,6 +14,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+
+      - name: Sort
+        run: node sort.js
+
+      - name: Prettify
+        uses: creyD/prettier_action@v4.0
+        with:
+          prettier_options: --write **/*.json
+          same_commit: true
+
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
         with:
