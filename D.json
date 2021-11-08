@@ -26,6 +26,7 @@
   "第一": ["first"],
   "动态的": ["dynamic"],
   "读我": ["readme"],
+  "对比": ["compare", "comparison"],
   "对象": ["object"],
   "多行文本": ["textarea"],
   "多选框": ["checkbox"]

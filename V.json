@@ -3,5 +3,6 @@
   "versatile": ["通用的"],
   "view": ["view", "视图"],
   "view model": ["vm", "view model", "视图模型"],
+  "virtual dom": ["virtual dom", "虚拟 DOM"],
   "vm": ["vm", "view model", "视图模型"]
 }

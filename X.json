@@ -5,6 +5,7 @@
   "消费者": ["consumer"],
   "小程序": ["miniprogram"],
   "协调": ["reconciliation"],
+  "虚拟 DOM": ["virtual dom"],
   "选项": ["option"],
   "选项（复数）": ["options"],
   "选择框": ["select"],
