@@ -30,7 +30,3 @@ try {
 } catch (error) {
   console.error("Error: ", error?.message ?? error);
 }
-
-// test code
-const F = require("./S.json");
-console.log("F", F);
