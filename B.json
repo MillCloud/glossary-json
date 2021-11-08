@@ -8,13 +8,17 @@
   "builder": ["builder", "构建工具"],
   "bundle": ["bundle", "捆绑"],
   "bundler": ["bundler", "捆绑工具"],
+  "帮助": ["help"],
   "包": ["package"],
+  "保护": ["secure"],
   "本地的": ["local"],
+  "编译": ["compile"],
   "标签": ["tag"],
   "表达式": ["expression"],
   "表达式（复数）": ["expressions"],
   "表单": ["form"],
   "表格": ["sheet", "table"],
   "布局": ["layout"],
-  "布局（复数）": ["layouts"]
+  "布局（复数）": ["layouts"],
+  "部署": ["deploy"]
 }

@@ -1,5 +1,7 @@
 {
   "meta": ["元"],
+  "migrate": ["迁移"],
+  "migration": ["迁移"],
   "miniprogram": ["小程序"],
   "mixin": ["混入"],
   "mock": ["mock", "模拟"],

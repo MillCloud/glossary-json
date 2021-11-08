@@ -1,6 +1,7 @@
 {
   "期约": ["promise"],
   "签名": ["signature"],
+  "迁移": ["migrate", "migration"],
   "前缀": ["prefix"],
   "浅层": ["shallow"],
   "浅层的": ["shallow"],

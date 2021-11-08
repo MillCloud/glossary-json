@@ -1,4 +1,5 @@
 {
+  "watcher": ["侦听器"],
   "外部的": ["external"],
   "文本": ["text"],
   "文档对象模型": ["dom", "document object model"],

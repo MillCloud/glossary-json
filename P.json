@@ -6,6 +6,7 @@
   "plugin": ["插件"],
   "plugins": ["插件（复数）"],
   "portal": ["portal", "传送门"],
+  "pre-compile": ["预编译"],
   "prefix": ["前缀"],
   "program": ["程序"],
   "progressive": ["渐进式的"],

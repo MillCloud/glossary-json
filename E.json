@@ -1,7 +1,8 @@
 {
   "ecosystem": ["生态系统"],
-  "el": ["element", "元素"],
+  "el": ["el", "element", "元素"],
   "element": ["el", "元素"],
+  "error": ["错误"],
   "escape hatch": ["应急方案"],
   "escape hatches": ["应急方案（复数）"],
   "event": ["事件"],
@@ -10,5 +11,6 @@
   "example": ["示例"],
   "expression": ["表达式"],
   "expressions": ["表达式（复数）"],
-  "external": ["国外的", "外部的"]
+  "external": ["国外的", "外部的"],
+  "extract": ["提取"]
 }

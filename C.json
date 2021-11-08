@@ -7,8 +7,10 @@
   "class": ["class", "类"],
   "col": ["column", "列"],
   "column": ["col", "列"],
+  "community": ["社区"],
   "compare": ["对比"],
   "comparison": ["对比"],
+  "compile": ["编译"],
   "component": ["组件"],
   "components": ["组件（复数）"],
   "composition": ["组合"],
@@ -34,6 +36,7 @@
   "程序": ["program"],
   "处理": ["handle"],
   "传送门": ["portal", "teleport"],
+  "错误": ["error"],
   "重构": ["refactor"],
   "重写": ["rewrite"],
   "重用": ["reuse"]

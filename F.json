@@ -1,10 +1,12 @@
 {
   "fallback": ["降级"],
   "fen": ["人民币分"],
+  "filter": ["过滤", "过滤器"],
   "finite state machine": ["有限状态机"],
   "first": ["第一"],
   "for example": ["例如"],
   "form": ["表单"],
+  "forum": ["论坛"],
   "fragment": ["片段"],
   "fragments": ["片段（复数）"],
   "framework": ["框架"],
@@ -15,6 +17,7 @@
   "分店": ["branch"],
   "分店（复数）": ["branches"],
   "服务": ["service"],
+  "服务端渲染": ["ssr", "server-side rendering"],
   "复选框": ["checkbox"],
   "复用": ["reuse"]
 }

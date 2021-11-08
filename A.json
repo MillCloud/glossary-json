@@ -11,5 +11,7 @@
   "async": ["async", "asynchronous", "异步", "异步的"],
   "asynchronous": ["async", "异步", "异步的"],
   "attr": ["attribute", "属性"],
-  "attribute": ["attribute", "属性"]
+  "attribute": ["attribute", "属性"],
+  "安全": ["safety", "security"],
+  "安全的": ["safe", "secure"]
 }
