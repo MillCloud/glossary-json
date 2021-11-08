@@ -28,7 +28,7 @@
   "style": ["样式"],
   "styles": ["样式（复数）"],
   "suffix": ["后缀"],
-  "sync": ["synchronous", "同步", "同步的"],
+  "sync": ["sync", "synchronous", "同步", "同步的"],
   "synchronous": ["sync", "同步", "同步的"],
   "syntax": ["语法"],
   "上下文": ["content"],
