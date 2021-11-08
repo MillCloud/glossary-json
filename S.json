@@ -1,4 +1,5 @@
 {
+  "scale": ["伸缩", "规模"],
   "search engine optimization": ["seo", "搜索引擎优化"],
   "second": ["第二"],
   "section": ["章节"],
@@ -32,7 +33,9 @@
   "synchronous": ["sync", "同步", "同步的"],
   "syntax": ["语法"],
   "上下文": ["content"],
+  "伸缩": ["scale"],
   "生命周期": ["lifecycle"],
+  "生态系统": ["ecosystem"],
   "声明式的": ["declarative"],
   "时间": ["time"],
   "时间戳": ["timestamp"],

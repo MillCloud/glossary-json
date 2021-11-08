@@ -12,6 +12,7 @@
   "构建": ["build"],
   "构建工具": ["builder"],
   "关注点": ["concern"],
+  "规模": ["scale"],
   "国内的": ["internal"],
   "国外的": ["external"],
   "过渡": ["transition"],
