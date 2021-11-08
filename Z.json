@@ -9,6 +9,7 @@
   "注意": ["note"],
   "状态": ["state"],
   "状态管理": ["state management"],
+  "状态管理模式": ["state management pattern"],
   "状态机": ["state machine"],
   "准确的": ["exact"],
   "资产": ["asset"],
@@ -16,7 +17,9 @@
   "资源": ["resource"],
   "字符": ["character"],
   "字符串": ["string"],
+  "自定义的": ["custom"],
   "组合": ["composition"],
+  "组合式的": ["composable"],
   "组件": ["component"],
   "组件（复数）": ["components"]
 }

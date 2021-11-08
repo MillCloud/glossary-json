@@ -1,14 +1,21 @@
 {
+  "manager": ["经理"],
+  "mechanism": ["机制"],
   "meta": ["元"],
   "migrate": ["迁移"],
   "migration": ["迁移"],
   "miniprogram": ["小程序"],
   "mixin": ["混入"],
+  "mobile": ["移动端"],
   "mock": ["mock", "模拟"],
+  "mode": ["模式"],
   "model": ["model", "模型"],
   "module": ["module", "模块"],
+  "modern": ["现代的"],
   "模板": ["template"],
   "模块": ["module"],
   "模拟": ["mock"],
-  "模型": ["model"]
+  "模式": ["mode"],
+  "模型": ["model"],
+  "目标": ["target"]
 }
