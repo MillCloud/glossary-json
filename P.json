@@ -2,6 +2,7 @@
   "package": ["package", "包", "打包"],
   "page": ["页面"],
   "pages": ["页面（复数）"],
+  "performant": ["高效的"],
   "plugin": ["插件"],
   "plugins": ["插件（复数）"],
   "portal": ["portal", "传送门"],

@@ -4,6 +4,7 @@
   "guard": ["守卫"],
   "概览": ["overview"],
   "高阶组件": ["hoc", "higher-order component"],
+  "高效的": ["performant"],
   "公共的": ["public"],
   "供应": ["provide"],
   "供应商": ["provider"],

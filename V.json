@@ -1,5 +1,6 @@
 {
   "vendor": ["vendor", "浏览器引擎", "引擎"],
+  "versatile": ["通用的"],
   "view": ["view", "视图"],
   "view model": ["vm", "view model", "视图模型"],
   "vm": ["vm", "view model", "视图模型"]

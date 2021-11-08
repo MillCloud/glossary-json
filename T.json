@@ -15,6 +15,7 @@
   "tutorial": ["教程"],
   "提示": ["tip"],
   "条件": ["condition"],
+  "通用的": ["versatile"],
   "同步": ["sync", "synchronous"],
   "同步的": ["sync", "synchronous"],
   "退出登录": ["sign out", "log out"]
