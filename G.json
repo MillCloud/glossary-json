@@ -13,6 +13,7 @@
   "关注点": ["concern"],
   "国内的": ["internal"],
   "国外的": ["external"],
+  "过渡": ["transition"],
   "过时": ["legacy"],
   "过时的": ["legacy", "outdated"]
 }

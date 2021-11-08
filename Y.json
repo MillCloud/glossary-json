@@ -22,9 +22,9 @@
   "语法": ["grammar", "syntax"],
   "语义化的": ["semantic"],
   "元": ["meta"],
-  "源": ["source", "src"],
-  "原始的": ["raw"],
   "元素": ["el", "element"],
+  "原始的": ["raw"],
+  "源": ["source", "src"],
   "运算符": ["operator"],
   "运算符（复数）": ["operators"]
 }

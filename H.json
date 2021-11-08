@@ -5,12 +5,12 @@
   "hook": ["hook", "钩子"],
   "函数": ["function"],
   "函数式的": ["functional"],
-  "行": ["row"],
-  "行列式": ["determinant"],
   "横切": ["cross-cutting"],
   "后缀": ["suffix"],
   "互联网": ["internet"],
   "互联网服务供应商": ["isp", "internet service provider"],
   "回调": ["callback"],
-  "混入": ["mixin"]
+  "混入": ["mixin"],
+  "行": ["row"],
+  "行列式": ["determinant"]
 }

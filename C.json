@@ -30,9 +30,9 @@
   "插件": ["plugin"],
   "插件（复数）": ["plugins"],
   "程序": ["program"],
+  "处理": ["handle"],
+  "传送门": ["portal", "teleport"],
   "重构": ["refactor"],
   "重写": ["rewrite"],
-  "重用": ["reuse"],
-  "处理": ["handle"],
-  "传送门": ["portal", "teleport"]
+  "重用": ["reuse"]
 }

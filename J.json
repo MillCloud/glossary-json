@@ -1,11 +1,12 @@
 {
   "jiao": ["人民币角"],
   "继承": ["inheritance"],
+  "渐进式的": ["progressive"],
   "降级": ["fallback"],
   "教程": ["tutorial"],
   "教师": ["teacher"],
   "教师（复数）": ["teachers"],
   "静态的": ["static"],
-  "局部的": ["local"],
-  "局部地": ["locally"]
+  "局部地": ["locally"],
+  "局部的": ["local"]
 }

@@ -1,5 +1,5 @@
 {
-  "vendor": ["vendor", "引擎", "浏览器引擎"],
+  "vendor": ["vendor", "浏览器引擎", "引擎"],
   "view": ["view", "视图"],
   "view model": ["vm", "view model", "视图模型"],
   "vm": ["vm", "view model", "视图模型"]
