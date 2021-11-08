@@ -7,6 +7,9 @@
   "form": ["表单"],
   "fragment": ["片段"],
   "fragments": ["片段（复数）"],
+  "framework": [
+    "框架"
+  ],
   "function": ["函数"],
   "functional": ["函数式的"],
   "非受控的": ["uncontrolled"],
