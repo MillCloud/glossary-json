@@ -1,6 +1,7 @@
 {
   "manager": ["经理"],
   "manual": ["手动的"],
+  "map": ["地图", "映射"],
   "mechanism": ["机制"],
   "meta": ["元"],
   "migrate": ["迁移"],
