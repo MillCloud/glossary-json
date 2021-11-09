@@ -62,6 +62,7 @@
   "事件（复数）": ["events"],
   "视图": ["view"],
   "视图模型": ["view model"],
+  "手动的": ["manual"],
   "守卫": ["guard"],
   "首页": ["index"],
   "受控的": ["controlled"],

@@ -1,5 +1,6 @@
 {
   "navigation": ["导航"],
   "note": ["注意"],
-  "内部的": ["internal"]
+  "内部的": ["internal"],
+  "内置的": ["built-in"]
 }

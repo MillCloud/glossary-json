@@ -23,6 +23,7 @@
   "分店（复数）": ["branches"],
   "服务": ["service"],
   "服务端渲染": ["ssr", "server-side rendering"],
+  "覆盖": ["override"],
   "复选框": ["checkbox"],
   "复用": ["reuse"]
 }

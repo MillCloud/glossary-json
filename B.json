@@ -7,6 +7,7 @@
   "browser object model": ["bom", "浏览器对象模型"],
   "build": ["build", "构建"],
   "builder": ["builder", "构建工具"],
+  "built-in": ["内置的"],
   "bundle": ["bundle", "捆绑"],
   "bundler": ["bundler", "捆绑工具"],
   "帮助": ["help"],

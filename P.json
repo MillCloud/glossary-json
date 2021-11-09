@@ -19,6 +19,7 @@
   "provider": ["provider", "供应商"],
   "public": ["公共的"],
   "派生的": ["derived"],
+  "配置": ["config", "configuration"],
   "片段": ["fragment"],
   "片段（复数）": ["fragments"],
   "破坏性更新": ["breaking change"]
