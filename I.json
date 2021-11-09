@@ -1,9 +1,12 @@
 {
+  "import": ["引入"],
   "index": ["首页", "索引"],
   "indices": ["索引（复数）"],
   "inheritance": ["继承"],
   "inject": ["注入"],
   "input": ["输入"],
+  "install": ["安装"],
+  "installation": ["安装"],
   "instance": ["实例"],
   "internal": ["国内的", "内部的"],
   "internet": ["互联网"],

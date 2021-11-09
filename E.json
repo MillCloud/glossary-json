@@ -1,8 +1,10 @@
 {
   "e2e": ["end-to-end", "端到端"],
   "ecosystem": ["生态系统"],
+  "efficiency": ["效率"],
   "el": ["el", "element", "元素"],
   "element": ["el", "元素"],
+  "end": ["结束"],
   "end-to-end": ["端到端"],
   "environment": ["环境"],
   "error": ["错误"],
@@ -12,6 +14,7 @@
   "events": ["事件（复数）"],
   "exact": ["准确的"],
   "example": ["示例"],
+  "export": ["导出"],
   "expression": ["表达式"],
   "expressions": ["表达式（复数）"],
   "external": ["国外的", "外部的"],

@@ -1,10 +1,13 @@
 {
   "开发者": ["developer"],
+  "开始": ["begin", "start"],
   "可复用的": ["reusable"],
+  "可控制性": ["controllability"],
   "可选的": ["optional"],
   "控制器": ["controller"],
   "库": ["library"],
   "块": ["chunk"],
+  "快速的": ["fast", "quick"],
   "捆绑": ["bundle"],
   "捆绑工具": ["bundler"]
 }

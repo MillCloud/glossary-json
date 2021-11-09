@@ -16,6 +16,7 @@
   "资产（复数）": ["assets"],
   "资源": ["resource"],
   "自定义的": ["custom"],
+  "自动的": ["auto", "automatic"],
   "字符": ["character"],
   "字符串": ["string"],
   "组合": ["composition"],

@@ -1,4 +1,5 @@
 {
+  "begin": ["开始"],
   "bom": ["browser object model", "浏览器对象模型"],
   "branch": ["分店"],
   "branches": ["分店（复数）"],
@@ -10,8 +11,10 @@
   "bundler": ["bundler", "捆绑工具"],
   "帮助": ["help"],
   "包": ["package"],
+  "包管理器": ["package manager"],
   "保护": ["secure"],
   "本地的": ["local"],
+  "边栏": ["sidebar"],
   "编译": ["compile"],
   "变量": ["variable"],
   "标签": ["tag"],

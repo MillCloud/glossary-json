@@ -1,5 +1,6 @@
 {
   "package": ["package", "包", "打包"],
+  "package manager": ["包管理器"],
   "page": ["页面"],
   "pages": ["页面（复数）"],
   "performant": ["高效的"],
