@@ -1,4 +1,5 @@
 {
+  "icon": ["图标"],
   "import": ["引入"],
   "index": ["首页", "索引"],
   "indices": ["索引（复数）"],
@@ -13,5 +14,6 @@
   "internationalization": ["国际化"],
   "internet": ["互联网"],
   "internet service provider": ["isp", "互联网服务供应商"],
+  "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"]
 }

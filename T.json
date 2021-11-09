@@ -17,13 +17,18 @@
   "tip": ["提示"],
   "track": ["跟踪"],
   "transition": ["过渡"],
+  "trigger": ["触发", "触发器"],
   "tutorial": ["教程"],
+  "type": ["类型"],
+  "typography": ["排版"],
   "提取": ["extract"],
   "提示": ["tip"],
+  "填充": ["fill"],
   "条件": ["condition"],
   "通用的": ["versatile"],
   "同步": ["sync", "synchronous"],
   "同步的": ["sync", "synchronous"],
+  "图标": ["icon"],
   "团队": ["team"],
   "退出登录": ["sign out", "log out"]
 }

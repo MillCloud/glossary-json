@@ -2,8 +2,10 @@
   "variable": ["变量"],
   "vendor": ["vendor", "浏览器引擎", "引擎"],
   "versatile": ["通用的"],
+  "vertical": ["垂直的"],
   "view": ["view", "视图"],
   "view model": ["vm", "view model", "视图模型"],
   "virtual dom": ["virtual dom", "虚拟 DOM"],
+  "visible": ["可见的"],
   "vm": ["vm", "view model", "视图模型"]
 }

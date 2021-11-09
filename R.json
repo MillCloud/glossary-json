@@ -1,8 +1,10 @@
 {
   "radio": ["单选框"],
+  "ratio": ["比例"],
   "raw": ["原始的"],
   "reactive": ["响应式的"],
   "reactivity": ["响应性"],
+  "read": ["读取", "阅读"],
   "readme": ["读我"],
   "reconciliation": ["协调"],
   "ref": ["ref", "reference", "参考", "引用"],
@@ -11,6 +13,7 @@
   "register": ["注册"],
   "registration": ["注册"],
   "reload": ["重载"],
+  "remove": ["移除"],
   "render": ["render", "渲染"],
   "resource": ["资源"],
   "reusable": ["可复用的"],
@@ -26,5 +29,6 @@
   "人民币角": ["jiao"],
   "人民币元": ["yuan"],
   "日期": ["date"],
-  "日期时间": ["datetime"]
+  "日期时间": ["datetime"],
+  "容器": ["container"]
 }
