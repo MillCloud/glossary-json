@@ -27,8 +27,6 @@
   "废弃的": ["deprecated", "legacy"],
   "分店": ["branch"],
   "分店（复数）": ["branches"],
-  "父母": ["parent"],
-  "父母（复数）": ["parents"],
   "服务": ["service"],
   "服务端渲染": ["ssr", "server-side rendering"],
   "父母": ["parent"],
