@@ -18,9 +18,9 @@
   "attribute": ["attribute", "属性"],
   "auto": ["auto", "automatic", "自动的"],
   "automatic": ["auto", "自动的"],
-  "按钮": ["button"],
   "安全": ["safety", "security"],
   "安全的": ["safe", "secure"],
   "安装": ["install", "installation"],
+  "按钮": ["button"],
   "按需的": ["on-demand"]
 }

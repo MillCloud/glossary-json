@@ -18,8 +18,8 @@
   "保护": ["secure"],
   "本地的": ["local"],
   "比例": ["ratio"],
-  "边栏": ["aside", "sidebar"],
   "边框": ["border"],
+  "边栏": ["aside", "sidebar"],
   "编译": ["compile"],
   "变量": ["variable"],
   "标签": ["tag"],
@@ -27,8 +27,8 @@
   "表达式（复数）": ["expressions"],
   "表单": ["form"],
   "表格": ["sheet", "table"],
+  "不可见的": ["invisible"],
   "布局": ["layout"],
   "布局（复数）": ["layouts"],
-  "不可见的": ["invisible"],
   "部署": ["deploy"]
 }
