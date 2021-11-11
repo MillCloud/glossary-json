@@ -22,5 +22,6 @@
   "回调": ["callback"],
   "混入": ["mixin"],
   "行": ["row"],
+  "行高": ["line height"],
   "行列式": ["determinant"]
 }

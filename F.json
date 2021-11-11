@@ -31,7 +31,9 @@
   "父母（复数）": ["parents"],
   "服务": ["service"],
   "服务端渲染": ["ssr", "server-side rendering"],
-  "覆盖": ["override"],
+  "父母": ["parent"],
+  "父母（复数）": ["parents"],
   "复选框": ["checkbox"],
-  "复用": ["reuse"]
+  "复用": ["reuse"],
+  "覆盖": ["override"]
 }

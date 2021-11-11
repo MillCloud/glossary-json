@@ -40,6 +40,8 @@
   "原生": ["native"],
   "原生的": ["native"],
   "元素": ["el", "element"],
+  "原生": ["native"],
+  "原生的": ["native"],
   "原始的": ["raw"],
   "源": ["source", "src"],
   "阅读": ["read"],
