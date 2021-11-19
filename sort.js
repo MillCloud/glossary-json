@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const regexp = /^[a-zA-Z0-9\s]+$/;
+const regexp = /^[a-zA-Z0-9\s\-]+$/;
 const compare = (a, b) => {
   if (regexp.test(a) && regexp.test(b)) {
     return a - b;
