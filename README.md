@@ -4,7 +4,7 @@
 
 - 使用 Github Workflow 排序、格式化、同步到 Gitee。
 - 每次添加数据请只操作 `.json` 文件。
-- 每次添加数据前请先 `git pull`。
+- 每次添加数据前请先 `git pull --rebase`。
 
 数据来源：
 
