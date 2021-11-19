@@ -17,12 +17,15 @@
   "tip": ["提示"],
   "track": ["跟踪"],
   "transition": ["过渡"],
+  "transparent": ["透明的"],
   "trigger": ["触发", "触发器"],
   "tutorial": ["教程"],
   "type": ["类型"],
   "typography": ["排版"],
   "提取": ["extract"],
   "提示": ["tip"],
+  "天": ["day"],
+  "天（复数）": ["days"],
   "填充": ["fill"],
   "条件": ["condition"],
   "通用的": ["versatile"],
@@ -32,6 +35,5 @@
   "透明度": ["alpha"],
   "图标": ["icon"],
   "团队": ["team"],
-  "退出登录": ["sign out", "log out"],
-  "transparent": ["透明的"]
+  "退出登录": ["log out", "sign out"]
 }

@@ -9,6 +9,7 @@
   "兼容性": ["compatibility"],
   "渐进式的": ["progressive"],
   "键": ["key"],
+  "箭头": ["arrow"],
   "降级": ["fallback"],
   "教程": ["tutorial"],
   "教师": ["teacher"],
@@ -21,5 +22,7 @@
   "警告": ["caveat"],
   "静态的": ["static"],
   "局部地": ["locally"],
-  "局部的": ["local"]
+  "局部的": ["local"],
+  "聚焦": ["focus"],
+  "校验": ["validate"]
 }

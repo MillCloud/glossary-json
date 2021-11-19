@@ -6,11 +6,8 @@
   "element": ["el", "元素"],
   "enabled": ["启用的"],
   "end": ["结束"],
-  "end-to-end": ["端到端"],
   "environment": ["环境"],
   "error": ["错误"],
-  "escape hatch": ["应急方案"],
-  "escape hatches": ["应急方案（复数）"],
   "event": ["事件"],
   "events": ["事件（复数）"],
   "exact": ["准确的"],
@@ -19,5 +16,9 @@
   "expression": ["表达式"],
   "expressions": ["表达式（复数）"],
   "external": ["国外的", "外部的"],
-  "extract": ["提取"]
+  "extract": ["提取"],
+  "escape hatch": ["应急方案"],
+  "escape hatches": ["应急方案（复数）"],
+  "end-to-end": ["端到端"],
+  "editable": ["可编辑的"]
 }

@@ -3,6 +3,7 @@
   "keyword": ["keyword", "关键词"],
   "开发者": ["developer"],
   "开始": ["begin", "start"],
+  "可编辑的": ["editable"],
   "可复用的": ["reusable"],
   "可过滤的": ["filterable"],
   "可见的": ["visible"],
@@ -12,9 +13,12 @@
   "可选的": ["optional"],
   "空格": ["space"],
   "空间": ["space"],
+  "控制": ["control"],
   "控制器": ["controller"],
   "库": ["library"],
   "块": ["chunk"],
+  "快捷方式": ["shortcut"],
+  "快捷方式（复数）": ["shortcuts"],
   "快速的": ["fast", "quick"],
   "宽度": ["width"]
 }

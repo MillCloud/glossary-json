@@ -1,6 +1,7 @@
 {
   "icon": ["图标"],
   "import": ["引入"],
+  "indeterminate": ["不确定的"],
   "index": ["首页", "索引"],
   "indices": ["索引（复数）"],
   "inheritance": ["继承"],
@@ -13,8 +14,7 @@
   "international": ["国际的"],
   "internationalization": ["国际化"],
   "internet": ["互联网"],
-  "internet service provider": ["isp", "互联网服务供应商"],
   "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"],
-  "indeterminate": ["不确定的"]
+  "internet service provider": ["isp", "互联网服务供应商"]
 }

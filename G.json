@@ -1,14 +1,18 @@
 {
   "global": ["全局的"],
   "grammar": ["语法"],
-  "guide": ["指南"],
+  "group": ["群组"],
   "guard": ["守卫"],
+  "guide": ["指南"],
   "gutter": ["间隔"],
+  "改变": ["change"],
   "改动日志": ["changelog"],
   "概览": ["overview"],
   "高度": ["height"],
   "高阶组件": ["hoc", "higher-order component"],
   "高效的": ["performant"],
+  "格式": ["format"],
+  "格式化": ["format"],
   "跟踪": ["track"],
   "更新": ["update"],
   "公共的": ["public"],
@@ -18,6 +22,7 @@
   "构建": ["build"],
   "构建工具": ["builder"],
   "关键词": ["keyword"],
+  "关联": ["link"],
   "关注点": ["concern"],
   "规范": ["specification"],
   "规模": ["scale"],
@@ -31,6 +36,5 @@
   "过滤": ["filter"],
   "过滤器": ["filter"],
   "过时": ["legacy"],
-  "过时的": ["legacy", "outdated"],
-  "group": ["群组"]
+  "过时的": ["legacy", "outdated"]
 }

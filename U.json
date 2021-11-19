@@ -7,14 +7,15 @@
   "unit": ["单元"],
   "update": ["更新"],
   "user": ["用户"],
+  "util": ["实用工具"],
+  "utilities": ["实用工具（复数）"],
+  "utility": ["实用工具"],
+  "utils": ["实用工具（复数）"],
+  "ux": ["ux", "user experience", "用户体验"],
+  "uxd": ["uxd", "user experience design", "用户体验设计"],
   "user experience": ["ux", "用户体验"],
   "user experience design": ["uxd", "用户体验设计"],
   "user interface": ["ui", "用户界面"],
   "user interface design": ["uid", "用户界面设计"],
-  "util": ["实用工具"],
-  "utility": ["实用工具"],
-  "utilities": ["实用工具（复数）"],
-  "utils": ["实用工具（复数）"],
-  "ux": ["ux", "user experience", "用户体验"],
-  "uxd": ["uxd", "user experience design", "用户体验设计"]
+  "unlink": ["取消关联"]
 }

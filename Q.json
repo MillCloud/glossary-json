@@ -1,4 +1,6 @@
 {
+  "quarter": ["季度"],
+  "quarters": ["季度（复数）"],
   "quick": ["快速的"],
   "期约": ["promise"],
   "启用的": ["enabled"],
@@ -9,6 +11,7 @@
   "浅层的": ["shallow"],
   "清楚的": ["clear"],
   "清空": ["clear"],
+  "取消关联": ["unlink"],
   "全局的": ["global"],
   "群组": ["group"]
 }

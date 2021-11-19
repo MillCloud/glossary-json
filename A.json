@@ -1,11 +1,11 @@
 {
   "align": ["对齐"],
   "alignment": ["对齐"],
+  "alpha": ["透明度"],
   "always": ["总是"],
   "api": ["application programming interface", "应用编程接口"],
   "app": ["application", "应用"],
   "application": ["app", "应用"],
-  "application programming interface": ["api", "应用编程接口"],
   "approachable": ["易用的"],
   "array": ["数组"],
   "aside": ["aside", "边栏"],
@@ -18,10 +18,11 @@
   "attribute": ["attribute", "属性"],
   "auto": ["auto", "automatic", "自动的"],
   "automatic": ["auto", "自动的"],
+  "application programming interface": ["api", "应用编程接口"],
+  "arrow": ["箭头"],
   "安全": ["safety", "security"],
   "安全的": ["safe", "secure"],
   "安装": ["install", "installation"],
   "按钮": ["button"],
-  "按需的": ["on-demand"],
-  "alpha": ["透明度"]
+  "按需的": ["on-demand"]
 }
