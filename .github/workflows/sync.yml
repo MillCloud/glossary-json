@@ -28,7 +28,7 @@ jobs:
       - name: Prettify
         uses: creyD/prettier_action@v4.0
         with:
-          prettier_options: --write **/*.json
+          prettier_options: -w ./*.json
           same_commit: true
 
       - name: Sync to Gitee
