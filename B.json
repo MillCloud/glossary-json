@@ -23,6 +23,7 @@
   "编译": ["compile"],
   "编译器": ["compiler"],
   "变量": ["variable"],
+  "标记": ["label"],
   "标签": ["tag"],
   "标准": ["standard"],
   "表达式": ["expression"],
@@ -30,6 +31,7 @@
   "表单": ["form"],
   "表格": ["sheet", "table"],
   "不可见的": ["invisible"],
+  "不确定的": ["indeterminate"],
   "布局": ["layout"],
   "布局（复数）": ["layouts"],
   "部署": ["deploy"]

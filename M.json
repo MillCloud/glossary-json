@@ -14,12 +14,16 @@
   "model": ["model", "模型"],
   "module": ["module", "模块"],
   "modern": ["现代的"],
-  "mpa": ["multi page application", "多页应用"],
-  "multi page application": ["mpa", "多页应用"],
+  "mpa": ["multiple page application", "多页应用"],
+  "multiple": ["多个的"],
+  "multiple page application": ["mpa", "多页应用"],
+  "面板": ["panel"],
   "模板": ["template"],
   "模块": ["module"],
   "模拟": ["mock"],
   "模式": ["mode"],
   "模型": ["model"],
-  "目标": ["target"]
+  "目标": ["target"],
+  "min": ["最少", "最小"],
+  "max": ["最大", "最多"]
 }

@@ -25,6 +25,7 @@
   "dynamic": ["动态的"],
   "打包": ["bundle"],
   "打包工具": ["bundler"],
+  "单个的": ["single"],
   "单文件组件": ["sfc", "single file component"],
   "单选框": ["radio"],
   "单页应用": ["spa", "single page application"],
@@ -48,7 +49,8 @@
   "对比": ["compare", "comparison"],
   "对齐": ["align", "alignment"],
   "对象": ["object"],
+  "多个的": ["multiple"],
   "多行文本": ["textarea"],
   "多选框": ["checkbox"],
-  "多页应用": ["mpa", "multi page application"]
+  "多页应用": ["mpa", "multiple page application"]
 }

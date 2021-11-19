@@ -5,6 +5,7 @@
   "fen": ["人民币分"],
   "fill": ["填充"],
   "filter": ["过滤", "过滤器"],
+  "filterable": ["可过滤的"],
   "finite state machine": ["有限状态机"],
   "finish": ["结束"],
   "first": ["第一"],

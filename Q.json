@@ -7,5 +7,8 @@
   "前缀": ["prefix"],
   "浅层": ["shallow"],
   "浅层的": ["shallow"],
-  "全局的": ["global"]
+  "清楚的": ["clear"],
+  "清空": ["clear"],
+  "全局的": ["global"],
+  "群组": ["group"]
 }

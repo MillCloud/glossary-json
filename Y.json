@@ -36,6 +36,8 @@
   "语法": ["grammar", "syntax"],
   "语义化的": ["semantic"],
   "预编译": ["pre-compile"],
+  "预定义": ["predefine"],
+  "预定义的": ["predefined"],
   "元": ["meta"],
   "元素": ["el", "element"],
   "原生": ["native"],

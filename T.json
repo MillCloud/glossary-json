@@ -28,7 +28,10 @@
   "通用的": ["versatile"],
   "同步": ["sync", "synchronous"],
   "同步的": ["sync", "synchronous"],
+  "透明的": ["transparent"],
+  "透明度": ["alpha"],
   "图标": ["icon"],
   "团队": ["team"],
-  "退出登录": ["sign out", "log out"]
+  "退出登录": ["sign out", "log out"],
+  "transparent": ["透明的"]
 }

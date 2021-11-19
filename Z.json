@@ -1,6 +1,8 @@
 {
   "章节": ["section"],
+  "折叠": ["collapse"],
   "侦听器": ["watcher"],
+  "值": ["value"],
   "指令": ["directive"],
   "指南": ["guide"],
   "主题": ["theme"],
@@ -28,5 +30,9 @@
   "组合": ["composition"],
   "组合式的": ["composable"],
   "组件": ["component"],
-  "组件（复数）": ["components"]
+  "组件（复数）": ["components"],
+  "最大": ["max"],
+  "最多": ["max"],
+  "最少": ["min"],
+  "最小": ["min"]
 }

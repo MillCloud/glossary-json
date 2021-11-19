@@ -22,5 +22,6 @@
   "安全的": ["safe", "secure"],
   "安装": ["install", "installation"],
   "按钮": ["button"],
-  "按需的": ["on-demand"]
+  "按需的": ["on-demand"],
+  "alpha": ["透明度"]
 }

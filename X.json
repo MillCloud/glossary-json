@@ -1,6 +1,7 @@
 {
   "下划线": ["underline"],
   "现代的": ["modern"],
+  "限制": ["limit", "limitation"],
   "响应式的": ["reactive"],
   "响应性": ["reactivity"],
   "消费": ["consume"],
@@ -11,7 +12,9 @@
   "虚拟 DOM": ["virtual dom"],
   "选项": ["option"],
   "选项（复数）": ["options"],
+  "选择": ["select", "selection"],
   "选择框": ["select"],
+  "选择器": ["picker"],
   "渲染": ["render"],
   "学生": ["student"],
   "学生（复数）": ["students"]

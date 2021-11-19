@@ -15,5 +15,6 @@
   "internet": ["互联网"],
   "internet service provider": ["isp", "互联网服务供应商"],
   "invisible": ["不可见的"],
-  "isp": ["internet service provider", "互联网服务供应商"]
+  "isp": ["internet service provider", "互联网服务供应商"],
+  "indeterminate": ["不确定的"]
 }
