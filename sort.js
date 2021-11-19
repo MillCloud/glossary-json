@@ -3,8 +3,14 @@ const path = require("path");
 
 const regexp = /[a-zA-Z0-9]/;
 const compare = (a, b) => {
-  if (regexp.test(a) || regexp.test(b)) {
+  if (regexp.test(a) && regexp.test(b)) {
     return a - b;
+  }
+  if (regexp.test(a)) {
+    return -1;
+  }
+  if (regexp.test(b)) {
+    return 1;
   }
   return a.localeCompare(b, "zh");
 };
