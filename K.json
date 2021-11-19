@@ -11,7 +11,5 @@
   "库": ["library"],
   "块": ["chunk"],
   "快速的": ["fast", "quick"],
-  "宽度": ["width"],
-  "捆绑": ["bundle"],
-  "捆绑工具": ["bundler"]
+  "宽度": ["width"]
 }

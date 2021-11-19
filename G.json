@@ -18,6 +18,7 @@
   "构建": ["build"],
   "构建工具": ["builder"],
   "关注点": ["concern"],
+  "规范": ["specification"],
   "规模": ["scale"],
   "滚动": ["scroll"],
   "滚动条": ["scrollbar"],

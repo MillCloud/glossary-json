@@ -23,9 +23,11 @@
   "drink": ["饮品"],
   "drinks": ["饮品（复数）"],
   "dynamic": ["动态的"],
-  "打包": ["package"],
-  "单文件组件": ["single file component"],
+  "打包": ["bundle"],
+  "打包工具": ["bundler"],
+  "单文件组件": ["sfc", "single file component"],
   "单选框": ["radio"],
+  "单页应用": ["spa", "single page application"],
   "单元": ["unit"],
   "导出": ["export"],
   "导航": ["navigation"],
@@ -47,5 +49,6 @@
   "对齐": ["align", "alignment"],
   "对象": ["object"],
   "多行文本": ["textarea"],
-  "多选框": ["checkbox"]
+  "多选框": ["checkbox"],
+  "多页应用": ["mpa", "multi page application"]
 }

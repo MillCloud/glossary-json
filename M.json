@@ -14,6 +14,8 @@
   "model": ["model", "模型"],
   "module": ["module", "模块"],
   "modern": ["现代的"],
+  "mpa": ["multi page application", "多页应用"],
+  "multi page application": ["mpa", "多页应用"],
   "模板": ["template"],
   "模块": ["module"],
   "模拟": ["mock"],

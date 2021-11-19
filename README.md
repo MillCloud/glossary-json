@@ -14,7 +14,7 @@
 - [x] [vue-router-next](https://next.router.vuejs.org/zh/)
 - [x] [vue-cli-next](https://next.cli.vuejs.org/zh)
 - [ ] [element-plus](https://element-plus.gitee.io/zh-CN/)
-- [ ] [react](https://zh-hans.reactjs.org/)
+- [x] [react](https://zh-hans.reactjs.org/)
 - [ ] [react-native](https://reactnative.cn/)
 - [ ] [redux](https://cn.redux.js.org/)
 - [ ] [recoil](https://recoiljs.org/zh-hans/)
