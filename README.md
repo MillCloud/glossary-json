@@ -5,6 +5,11 @@
 - 使用 Github Workflow 排序、格式化、同步到 Gitee。
 - 每次添加数据请只操作 `.json` 文件。
 - 每次添加数据前请先 `git pull --rebase`。
+- 如果你了解 JavaScript 生态，建议你使用 Node.js 16，全局安装 prettier `npm i -g --legacy-peer-deps prettier`，并在编辑完成后使用以下命令格式化。
+
+```sh
+node ./sort.js && prettier ./*.json -w --loglevel=warn && echo "Pretty succeeded."
+```
 
 数据来源：
 
