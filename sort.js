@@ -32,7 +32,7 @@ try {
       );
       fs.writeFileSync(file, newContent, { encoding: "utf-8" });
     });
-  console.log("Success.");
+  console.log("Sort succeeded.");
 } catch (error) {
-  console.error("Error: ", error?.message ?? error);
+  console.error("Sort error: ", error?.message ?? error);
 }
