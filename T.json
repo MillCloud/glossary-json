@@ -22,6 +22,7 @@
   "tutorial": ["教程"],
   "type": ["类型"],
   "typography": ["排版"],
+  "top": ["上"],
   "提取": ["extract"],
   "提示": ["tip"],
   "天": ["day"],
@@ -34,6 +35,7 @@
   "透明的": ["transparent"],
   "透明度": ["alpha"],
   "图标": ["icon"],
+  "图片": ["image"],
   "团队": ["team"],
   "退出登录": ["log out", "sign out"]
 }

@@ -24,6 +24,7 @@
   "public": ["公共的"],
   "package manager": ["包管理器"],
   "pre-compile": ["预编译"],
+  "position": ["位置"],
   "排版": ["typography"],
   "派生的": ["derived"],
   "配置": ["config", "configuration"],

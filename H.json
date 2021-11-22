@@ -26,5 +26,6 @@
   "混入": ["mixin"],
   "行": ["row"],
   "行高": ["line height"],
-  "行列式": ["determinant"]
+  "行列式": ["determinant"],
+  "行内的": ["inline"]
 }

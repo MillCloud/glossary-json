@@ -6,6 +6,7 @@
   "indices": ["索引（复数）"],
   "inheritance": ["继承"],
   "inject": ["注入"],
+  "inline": ["内联的", "行内的"],
   "input": ["输入"],
   "install": ["安装"],
   "installation": ["安装"],
@@ -16,5 +17,6 @@
   "internet": ["互联网"],
   "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"],
-  "internet service provider": ["isp", "互联网服务供应商"]
+  "internet service provider": ["isp", "互联网服务供应商"],
+  "image": ["图片"]
 }

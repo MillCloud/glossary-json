@@ -12,7 +12,7 @@
   "注册": ["register", "registration", "sign up"],
   "注入": ["inject"],
   "注意": ["note"],
-  "状态": ["state"],
+  "状态": ["state", "status"],
   "状态管理": ["state management"],
   "状态管理模式": ["state management pattern"],
   "状态机": ["state machine"],
@@ -38,5 +38,6 @@
   "最大": ["max"],
   "最多": ["max"],
   "最少": ["min"],
-  "最小": ["min"]
+  "最小": ["min"],
+  "左": ["left"]
 }

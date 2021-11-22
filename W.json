@@ -6,6 +6,7 @@
   "width": ["宽度"],
   "wrap": ["换行"],
   "外部的": ["external"],
+  "位置": ["position"],
   "文本": ["text"],
   "文档对象模型": ["dom", "document object model"],
   "无条件的": ["unconditionally"],

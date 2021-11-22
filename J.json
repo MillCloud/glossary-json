@@ -25,5 +25,6 @@
   "局部地": ["locally"],
   "局部的": ["local"],
   "聚焦": ["focus"],
-  "校验": ["validate"]
+  "校验": ["validate"],
+  "校验器": ["validator"]
 }

@@ -76,5 +76,6 @@
   "重构": ["refactor"],
   "重写": ["rewrite"],
   "重用": ["reuse"],
-  "重载": ["reload"]
+  "重载": ["reload"],
+  "重置": ["reset"]
 }

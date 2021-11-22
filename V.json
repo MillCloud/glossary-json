@@ -9,5 +9,6 @@
   "vm": ["vm", "view model", "视图模型"],
   "view model": ["vm", "view model", "视图模型"],
   "virtual dom": ["virtual dom", "虚拟 DOM"],
-  "validate": ["校验"]
+  "validate": ["校验"],
+  "validator": ["校验器"]
 }

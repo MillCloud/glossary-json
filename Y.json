@@ -35,6 +35,7 @@
   "有条件的": ["conditional"],
   "有限状态机": ["finite state machine"],
   "有状态的": ["stateful"],
+  "右": ["right"],
   "语法": ["grammar", "syntax"],
   "语义化的": ["semantic"],
   "预编译": ["pre-compile"],
