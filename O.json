@@ -9,5 +9,6 @@
   "outdated": ["过时的"],
   "override": ["覆盖"],
   "overview": ["概览"],
-  "on-demand": ["按需的"]
+  "on-demand": ["按需的"],
+  "opinionated": ["固执的", "开箱即用的", "自以为是的"]
 }

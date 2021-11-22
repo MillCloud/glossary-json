@@ -3,6 +3,7 @@
   "keyword": ["keyword", "关键词"],
   "开发者": ["developer"],
   "开始": ["begin", "start"],
+  "开箱即用的": ["opinionated"],
   "可编辑的": ["editable"],
   "可复用的": ["reusable"],
   "可过滤的": ["filterable"],
