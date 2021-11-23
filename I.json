@@ -28,6 +28,8 @@
   "internationalization": ["国际化"],
   "internet": ["互联网"],
   "internet service provider": ["isp", "互联网服务供应商"],
+  "invalidate": ["失效"],
+  "invalidation": ["失效"],
   "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"]
 }

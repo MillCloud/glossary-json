@@ -106,6 +106,7 @@
   "声明式的": ["declarative"],
   "省略": ["ellipsis"],
   "失焦": ["blur"],
+  "失效": ["invalidate", "invalidation"],
   "时": ["hour"],
   "时（复数）": ["hours"],
   "时间": ["time"],

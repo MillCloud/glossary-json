@@ -25,6 +25,7 @@
   "互联网服务供应商": ["internet service provider", "isp"],
   "滑块": ["slider"],
   "环境": ["environment"],
+  "缓存": ["cache"],
   "换行": ["wrap"],
   "徽标": ["badge"],
   "回调": ["callback"],

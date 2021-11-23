@@ -1,5 +1,6 @@
 {
   "validate": ["校验"],
+  "validation": ["校验"],
   "validator": ["校验器"],
   "value": ["value", "值"],
   "variable": ["变量"],
