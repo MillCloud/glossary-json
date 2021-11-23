@@ -1,14 +1,17 @@
 {
+  "validate": ["校验"],
+  "validator": ["校验器"],
   "value": ["value", "值"],
   "variable": ["变量"],
+  "variant": ["变体"],
   "vendor": ["vendor", "浏览器引擎", "引擎"],
   "versatile": ["通用的"],
   "vertical": ["垂直的"],
   "view": ["view", "视图"],
-  "visible": ["可见的"],
-  "vm": ["vm", "view model", "视图模型"],
-  "view model": ["vm", "view model", "视图模型"],
+  "view model": ["view model", "vm", "视图模型"],
+  "virtual": ["虚拟的"],
   "virtual dom": ["virtual dom", "虚拟 DOM"],
-  "validate": ["校验"],
-  "validator": ["校验器"]
+  "virtualized": ["虚拟化的"],
+  "visible": ["可见的"],
+  "vm": ["view model", "vm", "视图模型"]
 }

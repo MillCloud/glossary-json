@@ -1,11 +1,18 @@
 {
+  "name": ["名称"],
   "native": ["原生", "原生的"],
   "navigation": ["导航"],
+  "nested": ["嵌套的"],
+  "nickname": ["昵称"],
   "node": ["节点"],
   "note": ["注意"],
-  "内部的": ["internal"],
+  "notification": ["通知"],
+  "notify": ["通知"],
+  "内部的": ["inside", "internal"],
   "内联的": ["inline"],
+  "内容": ["content"],
   "内置的": ["built-in"],
+  "昵称": ["nickname"],
   "年": ["year"],
   "年（复数）": ["years"]
 }

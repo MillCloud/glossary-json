@@ -1,14 +1,16 @@
 {
   "object": ["对象"],
   "offset": ["偏移"],
+  "on-demand": ["按需的"],
   "operator": ["运算符"],
   "operators": ["运算符（复数）"],
+  "opinionated": ["固执的", "开箱即用的", "自以为是的"],
   "option": ["选项"],
   "optional": ["可选的"],
   "options": ["选项（复数）"],
   "outdated": ["过时的"],
+  "outside": ["外部的"],
+  "overlay": ["遮罩"],
   "override": ["覆盖"],
-  "overview": ["概览"],
-  "on-demand": ["按需的"],
-  "opinionated": ["固执的", "开箱即用的", "自以为是的"]
+  "overview": ["概览"]
 }
