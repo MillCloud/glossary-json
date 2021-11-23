@@ -4,7 +4,7 @@ const path = require("path");
 const regexp = /^[a-zA-Z0-9\s\-]+$/;
 const compare = (a, b) => {
   if (regexp.test(a) && regexp.test(b)) {
-    return a - b;
+    return a.localeCompare(b, "en");
   }
   if (regexp.test(a)) {
     return -1;
