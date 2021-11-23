@@ -1,5 +1,7 @@
 # glossary-json
 
+[Github Pages](https://millcloud.github.io/glossary/) | [Gitee Pages](https://millcloud.gitee.io/glossary/) | [Github Pages Repo](https://github.com/MillCloud/glossary) | [Gitee Pages Repo](https://gitee.com/MillCloud/glossary) | [Github Data Repo](https://github.com/MillCloud/glossary-json) | [Gitee Data Repo](https://gitee.com/MillCloud/glossary-json)
+
 词汇表 JSON 数据。
 
 - 使用 Github Workflow 排序、格式化、同步到 Gitee。
