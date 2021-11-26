@@ -25,7 +25,10 @@ try {
         Object.fromEntries(
           Object.entries(JSON.parse(content))
             .sort((entryA, entryB) => compare(entryA[0], entryB[0]))
-            .map(([key, value]) => [key, value.sort(compare)])
+            .map(([key, value]) => [
+              key.toLocaleLowerCase(),
+              value.map((item) => item.toLocaleLowerCase()).sort(compare),
+            ])
         ),
         null,
         2
