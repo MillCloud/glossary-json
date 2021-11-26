@@ -27,7 +27,7 @@ try {
             .sort((entryA, entryB) => compare(entryA[0], entryB[0]))
             .map(([key, value]) => [
               key.toLocaleLowerCase(),
-              value.map((item) => item.toLocaleLowerCase()).sort(compare),
+              [...new Set(value.map((item) => item.toLocaleLowerCase()))].sort(compare),
             ])
         ),
         null,
