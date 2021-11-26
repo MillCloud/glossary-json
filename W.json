@@ -11,6 +11,7 @@
   "wrap": ["换行"],
   "外部的": ["external", "outside"],
   "网格": ["grid"],
+  "网络": ["network"],
   "未激活的": ["inactivated", "inactive"],
   "位置": ["position"],
   "文本": ["text"],

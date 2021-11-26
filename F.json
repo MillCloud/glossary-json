@@ -38,6 +38,7 @@
   "废弃的": ["deprecated", "legacy"],
   "分": ["minute"],
   "分（复数）": ["minutes"],
+  "分布式持续渲染": ["distributed persistent rendering", "dpr"],
   "分店": ["branch"],
   "分店（复数）": ["branches"],
   "分割线": ["divider"],

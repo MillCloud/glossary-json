@@ -56,5 +56,6 @@
   "图片": ["image"],
   "团队": ["team"],
   "退出登录": ["log out", "sign out"],
-  "拖拽": ["drag"]
+  "拖拽": ["drag"],
+  "脱水": ["dehydrate"]
 }

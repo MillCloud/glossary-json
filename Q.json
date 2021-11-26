@@ -7,6 +7,7 @@
   "气泡确认框": ["popconfirm"],
   "迁移": ["migrate", "migration"],
   "签名": ["signature"],
+  "前提条件": ["prerequisites"],
   "前缀": ["prefix"],
   "浅层": ["shallow"],
   "浅层的": ["shallow"],
