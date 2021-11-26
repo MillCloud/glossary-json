@@ -22,7 +22,6 @@ node ./sort.js && prettier ./*.json -w --loglevel=warn && echo "Prettify succeed
 - [x] [vue-cli-next](https://next.cli.vuejs.org/zh)
 - [x] [element-plus](https://element-plus.gitee.io/zh-CN/)
 - [x] [react](https://zh-hans.reactjs.org/)
-- [ ] [react-native](https://reactnative.cn/)
 - [ ] [redux](https://cn.redux.js.org/)
 - [ ] [recoil](https://recoiljs.org/zh-hans/)
 - [ ] [react-router](https://react-router.docschina.org/)
