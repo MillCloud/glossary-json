@@ -19,14 +19,12 @@
   "销毁": ["destroy"],
   "小程序": ["miniprogram"],
   "小时": ["hour"],
-  "小时（复数）": ["hours"],
   "小型的": ["sm", "small"],
   "小圆点": ["dot"],
   "效率": ["efficiency"],
   "协调": ["reconciliation"],
   "信息": ["info", "information"],
   "星期": ["week"],
-  "星期（复数）": ["weeks"],
   "行动": ["action"],
   "形状": ["shape"],
   "性能": ["performance"],
@@ -36,12 +34,10 @@
   "悬停": ["hover"],
   "旋转": ["spin"],
   "选项": ["option"],
-  "选项（复数）": ["options"],
   "选择": ["check", "select", "selection"],
   "选择的": ["checked", "selected"],
   "选择框": ["select"],
   "选择器": ["picker"],
   "渲染": ["render"],
-  "学生": ["student"],
-  "学生（复数）": ["students"]
+  "学生": ["student"]
 }

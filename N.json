@@ -14,6 +14,5 @@
   "内容": ["content"],
   "内置的": ["built-in"],
   "昵称": ["nickname"],
-  "年": ["year"],
-  "年（复数）": ["years"]
+  "年": ["year"]
 }
