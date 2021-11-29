@@ -35,6 +35,7 @@
   "asset": ["asset", "资产"],
   "async": ["async", "asynchronous", "异步", "异步的"],
   "asynchronous": ["async", "异步", "异步的"],
+  "atom": ["atom", "原子"],
   "attr": ["attribute", "属性"],
   "attribute": ["attribute", "属性"],
   "auto": ["auto", "automatic", "自动的"],

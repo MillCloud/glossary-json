@@ -1,4 +1,5 @@
 {
+  "杂项": ["misc"],
   "在……之后": ["after"],
   "在……之前": ["before"],
   "增加": ["add"],
@@ -26,7 +27,7 @@
   "注入": ["inject"],
   "注水": ["hydrate"],
   "注意": ["note"],
-  "转换": ["convert", "parse"],
+  "转换": ["convert", "parse", "transform", "transformation"],
   "状态": ["state", "status"],
   "状态管理": ["state management"],
   "状态管理模式": ["state management pattern"],
