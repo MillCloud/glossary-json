@@ -51,5 +51,6 @@
   "距离": ["distance"],
   "聚焦": ["focus"],
   "校验": ["validate"],
-  "校验器": ["validator"]
+  "校验器": ["validator"],
+  "禁用": ["disable"]
 }

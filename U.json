@@ -21,5 +21,6 @@
   "util": ["实用工具"],
   "utility": ["实用工具"],
   "ux": ["user experience", "ux", "用户体验"],
-  "uxd": ["user experience design", "uxd", "用户体验设计"]
+  "uxd": ["user experience design", "uxd", "用户体验设计"],
+  "uninstall": ["卸载"]
 }

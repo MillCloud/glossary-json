@@ -55,5 +55,9 @@
   "平台": ["platform"],
   "评论": ["comment"],
   "屏幕": ["screen"],
-  "破坏性更新": ["breaking change"]
+  "破坏性更新": ["breaking change"],
+  "push": ["推", "推送"],
+  "pull": ["拉", "拉取"],
+  "publish": ["发布"],
+  "parse": ["转换"]
 }

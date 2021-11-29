@@ -15,7 +15,8 @@
   "information": ["info", "信息"],
   "inheritance": ["继承"],
   "initial": ["初始的"],
-  "initialize": ["初始化"],
+  "init": ["initialize", "初始化"],
+  "initialize": ["init", "初始化"],
   "inject": ["注入"],
   "inline": ["内联的", "行内的"],
   "input": ["输入"],
@@ -35,5 +36,6 @@
   "invalidation": ["失效"],
   "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"],
-  "isr": ["incremental site rendering", "增量式站点渲染"]
+  "isr": ["incremental site rendering", "增量式站点渲染"],
+  "inner": ["内部的"]
 }

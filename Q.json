@@ -19,5 +19,8 @@
   "全部": ["full"],
   "全局的": ["global"],
   "确认": ["confirm"],
-  "群组": ["group"]
+  "群组": ["group"],
+  "query": ["查询"],
+  "切换": ["toggle"],
+  "启用": ["enable"]
 }

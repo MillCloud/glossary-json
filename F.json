@@ -56,5 +56,9 @@
   "复选框": ["checkbox"],
   "复用": ["reuse"],
   "复杂的": ["complex"],
-  "覆盖": ["override"]
+  "覆盖": ["override"],
+  "副标题": ["subtitle"],
+  "fetch": ["获取"],
+  "find": ["查找"],
+  "发布": ["release", "publish"]
 }

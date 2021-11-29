@@ -93,7 +93,7 @@
   "尺寸": ["size"],
   "抽屉": ["drawer"],
   "初始的": ["initial"],
-  "初始化": ["initialize"],
+  "初始化": ["init", "initialize"],
   "处理": ["handle"],
   "触发": ["trigger"],
   "触发器": ["trigger"],
@@ -110,5 +110,9 @@
   "重用": ["reuse"],
   "重载": ["reload"],
   "重置": ["reset"],
-  "重做": ["redo"]
+  "重做": ["redo"],
+  "chart": ["图表"],
+  "查询": ["query"],
+  "查找": ["find"],
+  "convert": ["转换"]
 }

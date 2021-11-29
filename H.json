@@ -34,5 +34,6 @@
   "行": ["row"],
   "行高": ["line height"],
   "行列式": ["determinant"],
-  "行内的": ["inline"]
+  "行内的": ["inline"],
+  "获取": ["get", "fetch"]
 }

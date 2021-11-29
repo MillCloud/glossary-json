@@ -1,7 +1,8 @@
 {
   "name": ["名称", "命名"],
   "native": ["原生", "原生的"],
-  "navigation": ["导航"],
+  "nav": ["navigation", "导航"],
+  "navigation": ["nav", "导航"],
   "nested": ["嵌套的"],
   "network": ["网络"],
   "nickname": ["昵称"],
@@ -9,7 +10,7 @@
   "note": ["注意"],
   "notification": ["通知"],
   "notify": ["通知"],
-  "内部的": ["inside", "internal"],
+  "内部的": ["inside", "internal", "inner"],
   "内联的": ["inline"],
   "内容": ["content"],
   "内置的": ["built-in"],

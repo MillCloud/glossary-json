@@ -58,5 +58,10 @@
   "团队": ["team"],
   "退出登录": ["log out", "sign out"],
   "拖拽": ["drag"],
-  "脱水": ["dehydrate"]
+  "脱水": ["dehydrate"],
+  "图表": ["chart"],
+  "toolbar": ["工具栏"],
+  "推": ["push"],
+  "推送": ["push"],
+  "toggle": ["切换"]
 }

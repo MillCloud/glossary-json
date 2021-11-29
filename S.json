@@ -11,7 +11,7 @@
   "search engine optimization": ["seo", "搜索引擎优化"],
   "searchable": ["可搜索的"],
   "second": ["第二", "秒"],
-  "section": ["章节"],
+  "section": ["章节", "部分"],
   "secure": ["安全的", "保护"],
   "security": ["安全"],
   "select": ["选择", "选择框"],
@@ -139,5 +139,6 @@
   "搜索": ["search"],
   "搜索引擎优化": ["search engine optimization", "seo"],
   "缩略图": ["thumbnail"],
-  "索引": ["index"]
+  "索引": ["index"],
+  "subtitle": ["副标题"]
 }

@@ -60,5 +60,6 @@
   "阅读": ["read"],
   "运算符": ["operator"],
   "运行环境": ["runtime"],
-  "运行时": ["runtime"]
+  "运行时": ["runtime"],
+  "移动": ["move"]
 }

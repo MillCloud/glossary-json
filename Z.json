@@ -9,7 +9,7 @@
   "占位内容": ["placeholder"],
   "章节": ["section"],
   "账号": ["username"],
-  "遮罩": ["overlay"],
+  "遮罩": ["overlay", "mask"],
   "折叠": ["collapse"],
   "侦听器": ["watcher"],
   "值": ["value"],
@@ -53,5 +53,7 @@
   "最佳实践": ["best practices"],
   "最少": ["min"],
   "最小": ["min"],
-  "左": ["left"]
+  "左": ["left"],
+  "侦听": ["watch"],
+  "转换": ["convert", "parse"]
 }
