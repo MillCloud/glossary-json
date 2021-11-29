@@ -12,7 +12,7 @@
   "bom": ["browser object model", "浏览器对象模型"],
   "border": ["边框"],
   "bottom": ["下"],
-  "branch": ["分店"],
+  "branch": ["分店", "分支"],
   "breadcrumb": ["面包屑"],
   "breaking change": ["破坏性更新"],
   "browser object model": ["bom", "浏览器对象模型"],
@@ -34,6 +34,7 @@
   "比例": ["ratio"],
   "边框": ["border"],
   "边栏": ["aside", "sidebar"],
+  "编辑": ["edit"],
   "编译": ["compile"],
   "编译器": ["compiler"],
   "变化": ["change"],
@@ -53,7 +54,6 @@
   "布局": ["layout"],
   "步进": ["step"],
   "步骤": ["step"],
-  "部署": ["deploy"],
   "部分": ["section"],
-  "编辑": ["edit"]
+  "部署": ["deploy"]
 }

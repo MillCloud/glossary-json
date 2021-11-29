@@ -18,6 +18,8 @@
   "refresh": ["刷新"],
   "register": ["注册"],
   "registration": ["注册"],
+  "release": ["发布"],
+  "release candidate": ["rc", "发布候选"],
   "reload": ["重载"],
   "remote": ["远程的"],
   "remove": ["移除"],
@@ -48,7 +50,5 @@
   "日": ["day"],
   "日历": ["calendar"],
   "日期": ["date"],
-  "日期时间": ["datetime"],
-  "release": ["发布"],
-  "release candidate": ["rc", "发布候选"]
+  "日期时间": ["datetime"]
 }

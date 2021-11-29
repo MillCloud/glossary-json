@@ -1,6 +1,7 @@
 {
   "e2e": ["end-to-end", "端到端"],
   "ecosystem": ["生态系统"],
+  "edit": ["编辑"],
   "editable": ["可编辑的"],
   "efficiency": ["效率"],
   "el": ["el", "element", "元素"],
@@ -33,6 +34,5 @@
   "extra large": ["xl", "特别大型的"],
   "extra small": ["xs", "特别小型的"],
   "extract": ["提取"],
-  "额外的": ["extra"],
-  "edit": ["编辑"]
+  "额外的": ["extra"]
 }

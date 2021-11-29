@@ -11,7 +11,7 @@
   "search engine optimization": ["seo", "搜索引擎优化"],
   "searchable": ["可搜索的"],
   "second": ["第二", "秒"],
-  "section": ["章节", "部分"],
+  "section": ["部分", "章节"],
   "secure": ["安全的", "保护"],
   "security": ["安全"],
   "select": ["选择", "选择框"],
@@ -79,6 +79,7 @@
   "style": ["样式"],
   "style guide": ["风格指南"],
   "submit": ["提交"],
+  "subtitle": ["副标题"],
   "succeed": ["成功"],
   "success": ["成功"],
   "successful": ["成功的"],
@@ -139,6 +140,5 @@
   "搜索": ["search"],
   "搜索引擎优化": ["search engine optimization", "seo"],
   "缩略图": ["thumbnail"],
-  "索引": ["index"],
-  "subtitle": ["副标题"]
+  "索引": ["index"]
 }

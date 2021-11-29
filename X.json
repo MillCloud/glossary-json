@@ -23,6 +23,7 @@
   "小圆点": ["dot"],
   "效率": ["efficiency"],
   "协调": ["reconciliation"],
+  "卸载": ["uninstall"],
   "信息": ["info", "information"],
   "星期": ["week"],
   "行动": ["action"],
@@ -39,6 +40,5 @@
   "选择框": ["select"],
   "选择器": ["picker"],
   "渲染": ["render"],
-  "学生": ["student"],
-  "卸载": ["uninstall"]
+  "学生": ["student"]
 }

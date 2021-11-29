@@ -1,5 +1,6 @@
 {
   "close": ["关闭"],
+  "get": ["获取"],
   "global": ["全局的"],
   "grammar": ["语法"],
   "grid": ["网格", "栅格"],
@@ -21,6 +22,7 @@
   "根": ["root"],
   "跟踪": ["track"],
   "更新": ["update"],
+  "工具栏": ["toolbar"],
   "公共的": ["public"],
   "供应": ["provide"],
   "供应商": ["provider"],
@@ -48,7 +50,5 @@
   "过滤": ["filter"],
   "过滤器": ["filter"],
   "过时": ["legacy"],
-  "过时的": ["legacy", "outdated"],
-  "工具栏": ["toolbar"],
-  "get": ["获取"]
+  "过时的": ["legacy", "outdated"]
 }

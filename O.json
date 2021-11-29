@@ -8,9 +8,9 @@
   "option": ["选项"],
   "optional": ["可选的"],
   "outdated": ["过时的"],
+  "outer": ["外部的"],
   "outside": ["外部的"],
   "overlay": ["遮罩"],
   "override": ["覆盖"],
-  "overview": ["概览"],
-  "outer": ["外部的"]
+  "overview": ["概览"]
 }

@@ -31,9 +31,9 @@
   "徽标": ["badge"],
   "回调": ["callback"],
   "混入": ["mixin"],
+  "获取": ["fetch", "get"],
   "行": ["row"],
   "行高": ["line height"],
   "行列式": ["determinant"],
-  "行内的": ["inline"],
-  "获取": ["get", "fetch"]
+  "行内的": ["inline"]
 }

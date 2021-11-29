@@ -30,6 +30,7 @@
   "dialog": ["对话框"],
   "direction": ["方向"],
   "directive": ["指令"],
+  "disable": ["禁用"],
   "disabled": ["禁用的"],
   "discrete": ["离散的"],
   "dish": ["菜式"],
@@ -90,6 +91,5 @@
   "多个的": ["multiple"],
   "多行文本": ["textarea"],
   "多选框": ["checkbox"],
-  "多页应用": ["mpa", "multiple page application"],
-  "disable": ["禁用"]
+  "多页应用": ["mpa", "multiple page application"]
 }

@@ -9,8 +9,9 @@
   "占位内容": ["placeholder"],
   "章节": ["section"],
   "账号": ["username"],
-  "遮罩": ["overlay", "mask"],
+  "遮罩": ["mask", "overlay"],
   "折叠": ["collapse"],
+  "侦听": ["watch"],
   "侦听器": ["watcher"],
   "值": ["value"],
   "指令": ["directive"],
@@ -25,6 +26,7 @@
   "注入": ["inject"],
   "注水": ["hydrate"],
   "注意": ["note"],
+  "转换": ["convert", "parse"],
   "状态": ["state", "status"],
   "状态管理": ["state management"],
   "状态管理模式": ["state management pattern"],
@@ -53,7 +55,5 @@
   "最佳实践": ["best practices"],
   "最少": ["min"],
   "最小": ["min"],
-  "左": ["left"],
-  "侦听": ["watch"],
-  "转换": ["convert", "parse"]
+  "左": ["left"]
 }

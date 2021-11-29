@@ -34,6 +34,7 @@
   "金额": ["amount"],
   "进度": ["progress"],
   "进度条": ["progress"],
+  "禁用": ["disable"],
   "禁用的": ["disabled"],
   "经理": ["manager"],
   "精度": ["precision"],
@@ -51,6 +52,5 @@
   "距离": ["distance"],
   "聚焦": ["focus"],
   "校验": ["validate"],
-  "校验器": ["validator"],
-  "禁用": ["disable"]
+  "校验器": ["validator"]
 }

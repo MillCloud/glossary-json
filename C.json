@@ -15,6 +15,7 @@
   "change": ["变化", "改变"],
   "changelog": ["改动日志"],
   "character": ["字符"],
+  "chart": ["图表"],
   "check": ["选择"],
   "checkbox": ["多选框", "复选框"],
   "checked": ["选择的"],
@@ -61,6 +62,7 @@
   "controllability": ["可控制性"],
   "controlled": ["受控的"],
   "controller": ["控制器"],
+  "convert": ["转换"],
   "core": ["核心", "核心的"],
   "count": ["数量"],
   "create": ["创建"],
@@ -82,6 +84,8 @@
   "插槽": ["slot"],
   "插件": ["addon", "plugin"],
   "插入": ["insert"],
+  "查询": ["query"],
+  "查找": ["find"],
   "产品": ["product"],
   "常见问题": ["faq", "frequently asked questions"],
   "超出": ["exceed"],
@@ -110,9 +114,5 @@
   "重用": ["reuse"],
   "重载": ["reload"],
   "重置": ["reset"],
-  "重做": ["redo"],
-  "chart": ["图表"],
-  "查询": ["query"],
-  "查找": ["find"],
-  "convert": ["转换"]
+  "重做": ["redo"]
 }

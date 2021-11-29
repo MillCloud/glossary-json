@@ -21,6 +21,8 @@
   "timestamp": ["时间戳"],
   "tip": ["提示"],
   "title": ["标题"],
+  "toggle": ["切换"],
+  "toolbar": ["工具栏"],
   "tooltip": ["文字提示"],
   "top": ["上"],
   "track": ["跟踪"],
@@ -54,14 +56,12 @@
   "透明的": ["transparent"],
   "透明度": ["alpha"],
   "图标": ["icon"],
+  "图表": ["chart"],
   "图片": ["image"],
   "团队": ["team"],
-  "退出登录": ["log out", "sign out"],
-  "拖拽": ["drag"],
-  "脱水": ["dehydrate"],
-  "图表": ["chart"],
-  "toolbar": ["工具栏"],
   "推": ["push"],
   "推送": ["push"],
-  "toggle": ["切换"]
+  "退出登录": ["log out", "sign out"],
+  "拖拽": ["drag"],
+  "脱水": ["dehydrate"]
 }

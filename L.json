@@ -23,6 +23,8 @@
   "log in": ["登录", "登入"],
   "log out": ["登出", "退出登录"],
   "low-level programming": ["底层编程"],
+  "拉": ["pull"],
+  "拉取": ["pull"],
   "懒加载": ["lazy load"],
   "老师": ["teacher"],
   "类": ["class"],
@@ -36,7 +38,5 @@
   "浏览器引擎": ["vendor"],
   "路由": ["route"],
   "路由器": ["router"],
-  "论坛": ["forum"],
-  "拉": ["pull"],
-  "拉取": ["pull"]
+  "论坛": ["forum"]
 }

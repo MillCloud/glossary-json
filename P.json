@@ -10,6 +10,7 @@
   "param": ["parameter", "参数"],
   "parameter": ["param", "参数"],
   "parent": ["父母"],
+  "parse": ["转换"],
   "password": ["密码"],
   "percentage": ["百分比"],
   "performance": ["性能"],
@@ -44,7 +45,10 @@
   "provide": ["供应"],
   "provider": ["provider", "供应商"],
   "public": ["公共的"],
+  "publish": ["发布"],
+  "pull": ["拉", "拉取"],
   "pure function": ["纯函数"],
+  "push": ["推", "推送"],
   "排版": ["typography"],
   "派生的": ["derived"],
   "跑马灯": ["carousel"],
@@ -55,9 +59,5 @@
   "平台": ["platform"],
   "评论": ["comment"],
   "屏幕": ["screen"],
-  "破坏性更新": ["breaking change"],
-  "push": ["推", "推送"],
-  "pull": ["拉", "拉取"],
-  "publish": ["发布"],
-  "parse": ["转换"]
+  "破坏性更新": ["breaking change"]
 }
