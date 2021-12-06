@@ -26,7 +26,9 @@
   "小圆点": ["dot"],
   "效率": ["efficiency"],
   "协调": ["reconciliation"],
+  "协议": ["protocol"],
   "卸载": ["uninstall"],
+  "新鲜的": ["fresh"],
   "信息": ["info", "information"],
   "星期": ["week"],
   "行动": ["action"],
@@ -43,7 +45,5 @@
   "选择框": ["select"],
   "选择器": ["picker"],
   "渲染": ["render"],
-  "学生": ["student"],
-  "协议": ["protocol"],
-  "新鲜的": ["fresh"]
+  "学生": ["student"]
 }

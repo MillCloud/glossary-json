@@ -12,6 +12,8 @@
   "empty": ["空的"],
   "enable": ["启用"],
   "enabled": ["启用的"],
+  "encode": ["编码"],
+  "encoding": ["编码"],
   "end": ["结束"],
   "end-to-end": ["端到端"],
   "ended": ["结束的"],
@@ -37,7 +39,5 @@
   "extra large": ["xl", "特别大型的"],
   "extra small": ["xs", "特别小型的"],
   "extract": ["提取"],
-  "额外的": ["extra"],
-  "encode": ["编码"],
-  "encoding": ["编码"]
+  "额外的": ["extra"]
 }

@@ -11,6 +11,7 @@
   "debug": ["调试"],
   "debugger": ["调试器"],
   "declarative": ["声明式的"],
+  "decode": ["解码"],
   "default": ["默认的"],
   "dehydrate": ["脱水"],
   "delay": ["延迟"],
@@ -42,6 +43,7 @@
   "divider": ["分割线"],
   "document object model": ["文档对象模型"],
   "dom": ["document object model", "dom", "文档对象模型"],
+  "domain": ["域", "域名"],
   "dot": ["小圆点"],
   "double click": ["双击"],
   "download": ["下载"],
@@ -95,7 +97,5 @@
   "多个的": ["multiple"],
   "多行文本": ["textarea"],
   "多选框": ["checkbox"],
-  "多页应用": ["mpa", "multiple page application"],
-  "domain": ["域", "域名"],
-  "decode": ["解码"]
+  "多页应用": ["mpa", "multiple page application"]
 }

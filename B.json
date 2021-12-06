@@ -9,6 +9,7 @@
   "bind": ["绑定"],
   "binding": ["绑定的"],
   "blur": ["失焦"],
+  "body": ["身体"],
   "bom": ["browser object model", "浏览器对象模型"],
   "border": ["边框"],
   "bottom": ["下"],
@@ -36,6 +37,7 @@
   "边框": ["border"],
   "边栏": ["aside", "sidebar"],
   "编辑": ["edit"],
+  "编码": ["encode", "encoding"],
   "编译": ["compile"],
   "编译器": ["compiler"],
   "变化": ["change"],
@@ -52,12 +54,10 @@
   "不可变的": ["immutable"],
   "不可见的": ["invisible"],
   "不确定的": ["indeterminate"],
+  "不新鲜的": ["stale"],
   "布局": ["layout"],
   "步进": ["step"],
   "步骤": ["step"],
   "部分": ["section"],
-  "部署": ["deploy"],
-  "不新鲜的": ["stale"],
-  "编码": ["encode", "encoding"],
-  "body": ["身体"]
+  "部署": ["deploy"]
 }

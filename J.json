@@ -33,6 +33,7 @@
   "结果": ["result"],
   "结束": ["end", "finish"],
   "结束的": ["ended", "finished"],
+  "解码": ["decode"],
   "解析": ["resolution", "resolve"],
   "金额": ["amount"],
   "进程": ["process"],
@@ -57,6 +58,5 @@
   "聚焦": ["focus"],
   "绝对的": ["absolute"],
   "校验": ["validate"],
-  "校验器": ["validator"],
-  "解码": ["decode"]
+  "校验器": ["validator"]
 }

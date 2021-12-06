@@ -1,5 +1,6 @@
 {
   "label": ["label", "标记"],
+  "language": ["语言"],
   "large": ["lg", "大型的"],
   "layout": ["布局"],
   "lazy load": ["懒加载"],
@@ -30,7 +31,6 @@
   "类": ["class"],
   "类型": ["type"],
   "离散的": ["discrete"],
-  "language": ["语言"],
   "立即的": ["immediate"],
   "例如": ["for example"],
   "列": ["col", "column"],

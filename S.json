@@ -56,6 +56,7 @@
   "square": ["方形的"],
   "src": ["源"],
   "ssr": ["server-side rendering", "ssr", "服务端渲染"],
+  "stale": ["不新鲜的"],
   "standard": ["标准"],
   "start": ["开始"],
   "started": ["开始的"],
@@ -102,6 +103,7 @@
   "设置": ["set"],
   "社区": ["community"],
   "伸缩": ["scale"],
+  "身体": ["body"],
   "生产": ["prod", "produce", "production"],
   "生成": ["generate"],
   "生成器": ["generator"],
@@ -147,7 +149,5 @@
   "搜索": ["search"],
   "搜索引擎优化": ["search engine optimization", "seo"],
   "缩略图": ["thumbnail"],
-  "索引": ["index"],
-  "stale": ["不新鲜的"],
-  "身体": ["body"]
+  "索引": ["index"]
 }

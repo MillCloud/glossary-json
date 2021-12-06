@@ -43,6 +43,7 @@
   "promise": ["promise", "期约"],
   "prop": ["property", "属性"],
   "property": ["prop", "属性"],
+  "protocol": ["协议"],
   "provide": ["provide", "供应"],
   "provider": ["provider", "供应商"],
   "proxy": ["proxy", "代理"],
@@ -62,6 +63,5 @@
   "评分": ["rate"],
   "评论": ["comment"],
   "屏幕": ["screen"],
-  "破坏性更新": ["breaking change"],
-  "protocol": ["协议"]
+  "破坏性更新": ["breaking change"]
 }
