@@ -3,6 +3,7 @@
   "dashboard": ["仪表盘"],
   "data": ["数据"],
   "data item": ["数据项"],
+  "database": ["数据库"],
   "date": ["日期"],
   "datetime": ["日期时间"],
   "day": ["日", "天"],
@@ -14,6 +15,7 @@
   "dehydrate": ["脱水"],
   "delay": ["延迟"],
   "delete": ["删除"],
+  "dependency": ["依赖"],
   "deploy": ["部署"],
   "deprecated": ["废弃的"],
   "derived": ["派生的"],
@@ -55,6 +57,8 @@
   "打包": ["bundle"],
   "打包工具": ["bundler"],
   "大型的": ["large", "lg"],
+  "代": ["generation"],
+  "代理": ["proxy"],
   "单词": ["word"],
   "单个的": ["single"],
   "单文件组件": ["sfc", "single file component"],
@@ -91,5 +95,7 @@
   "多个的": ["multiple"],
   "多行文本": ["textarea"],
   "多选框": ["checkbox"],
-  "多页应用": ["mpa", "multiple page application"]
+  "多页应用": ["mpa", "multiple page application"],
+  "domain": ["域", "域名"],
+  "decode": ["解码"]
 }

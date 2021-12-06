@@ -1,8 +1,12 @@
 {
   "close": ["关闭"],
+  "generate": ["生成"],
+  "generation": ["代"],
+  "generator": ["生成器"],
   "get": ["获取"],
   "global": ["全局的"],
   "grammar": ["语法"],
+  "graph": ["图"],
   "grid": ["网格", "栅格"],
   "group": ["群组"],
   "guard": ["守卫"],

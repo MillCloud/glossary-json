@@ -4,12 +4,15 @@
   "下": ["bottom"],
   "下划线": ["underline"],
   "下拉式的": ["dropdown"],
+  "下一代": ["next generation"],
   "下载": ["download"],
   "下载器": ["downloader"],
   "显示": ["show"],
   "现代的": ["modern"],
   "现有的": ["existing"],
+  "线程": ["thread"],
   "限制": ["limit", "limitation"],
+  "相对的": ["relative"],
   "响应": ["response"],
   "响应式的": ["reactive"],
   "响应性": ["reactivity"],
@@ -40,5 +43,7 @@
   "选择框": ["select"],
   "选择器": ["picker"],
   "渲染": ["render"],
-  "学生": ["student"]
+  "学生": ["student"],
+  "协议": ["protocol"],
+  "新鲜的": ["fresh"]
 }

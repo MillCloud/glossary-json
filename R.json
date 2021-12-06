@@ -1,6 +1,7 @@
 {
   "radio": ["单选框"],
   "range": ["范围"],
+  "rate": ["评分"],
   "ratio": ["比例"],
   "raw": ["原始的"],
   "reactive": ["响应式的"],
@@ -18,6 +19,7 @@
   "refresh": ["刷新"],
   "register": ["注册"],
   "registration": ["注册"],
+  "relative": ["相对的"],
   "release": ["发布"],
   "release candidate": ["rc", "发布候选"],
   "reload": ["重载"],
@@ -26,6 +28,8 @@
   "render": ["render", "渲染"],
   "request": ["请求"],
   "reset": ["重置"],
+  "resolution": ["解析"],
+  "resolve": ["resolve", "解析"],
   "resource": ["资源"],
   "response": ["响应"],
   "result": ["结果"],
@@ -50,5 +54,6 @@
   "日": ["day"],
   "日历": ["calendar"],
   "日期": ["date"],
-  "日期时间": ["datetime"]
+  "日期时间": ["datetime"],
+  "入口": ["entry"]
 }

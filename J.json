@@ -6,6 +6,7 @@
   "激活": ["activate"],
   "激活的": ["activated", "active"],
   "级联选择器": ["cascader"],
+  "集成": ["integration"],
   "集合": ["set"],
   "技术选型临界点": ["critical adoption"],
   "继承": ["inheritance"],
@@ -13,6 +14,7 @@
   "加载器": ["loader"],
   "加载中": ["loading"],
   "间隔": ["gutter"],
+  "间距": ["space"],
   "兼容性": ["compatibility"],
   "减少": ["reduce"],
   "建议": ["suggestion"],
@@ -31,7 +33,9 @@
   "结果": ["result"],
   "结束": ["end", "finish"],
   "结束的": ["ended", "finished"],
+  "解析": ["resolution", "resolve"],
   "金额": ["amount"],
+  "进程": ["process"],
   "进度": ["progress"],
   "进度条": ["progress"],
   "禁用": ["disable"],
@@ -51,6 +55,8 @@
   "句子": ["sentence"],
   "距离": ["distance"],
   "聚焦": ["focus"],
+  "绝对的": ["absolute"],
   "校验": ["validate"],
-  "校验器": ["validator"]
+  "校验器": ["validator"],
+  "解码": ["decode"]
 }

@@ -32,6 +32,7 @@
   "prefix": ["前缀"],
   "prerequisites": ["前提条件"],
   "preview": ["预览"],
+  "process": ["进程"],
   "prod": ["production", "生产"],
   "produce": ["生产"],
   "product": ["产品"],
@@ -42,8 +43,9 @@
   "promise": ["promise", "期约"],
   "prop": ["property", "属性"],
   "property": ["prop", "属性"],
-  "provide": ["供应"],
+  "provide": ["provide", "供应"],
   "provider": ["provider", "供应商"],
+  "proxy": ["proxy", "代理"],
   "public": ["公共的"],
   "publish": ["发布"],
   "pull": ["拉", "拉取"],
@@ -57,7 +59,9 @@
   "偏移": ["offset"],
   "片段": ["fragment"],
   "平台": ["platform"],
+  "评分": ["rate"],
   "评论": ["comment"],
   "屏幕": ["screen"],
-  "破坏性更新": ["breaking change"]
+  "破坏性更新": ["breaking change"],
+  "protocol": ["协议"]
 }

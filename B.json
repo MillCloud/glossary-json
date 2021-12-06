@@ -15,6 +15,7 @@
   "branch": ["分店", "分支"],
   "breadcrumb": ["面包屑"],
   "breaking change": ["破坏性更新"],
+  "browser": ["浏览器"],
   "browser object model": ["bom", "浏览器对象模型"],
   "build": ["build", "构建"],
   "builder": ["builder", "构建工具"],
@@ -55,5 +56,8 @@
   "步进": ["step"],
   "步骤": ["step"],
   "部分": ["section"],
-  "部署": ["deploy"]
+  "部署": ["deploy"],
+  "不新鲜的": ["stale"],
+  "编码": ["encode", "encoding"],
+  "body": ["身体"]
 }

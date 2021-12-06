@@ -15,6 +15,8 @@
   "end": ["结束"],
   "end-to-end": ["端到端"],
   "ended": ["结束的"],
+  "engine": ["引擎"],
+  "entry": ["entry", "入口"],
   "env": ["environment", "环境"],
   "environment": ["env", "环境"],
   "ergonomics": ["人机工程学", "人体工程学"],
@@ -35,5 +37,7 @@
   "extra large": ["xl", "特别大型的"],
   "extra small": ["xs", "特别小型的"],
   "extract": ["提取"],
-  "额外的": ["extra"]
+  "额外的": ["extra"],
+  "encode": ["编码"],
+  "encoding": ["编码"]
 }
