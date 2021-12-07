@@ -22,8 +22,8 @@ jobs:
         with:
           node-version: "16"
 
-      - name: Sort
-        run: node ./sort.js
+      - name: Format
+        run: node ./format.js
 
       - name: Prettify
         uses: creyD/prettier_action@v4.0
