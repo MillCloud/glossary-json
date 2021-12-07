@@ -1,4 +1,5 @@
 {
+  "dac": ["discretionary access control", "自主访问控制"],
   "dark": ["暗黑的"],
   "dashboard": ["仪表盘"],
   "data": ["数据"],
@@ -38,6 +39,7 @@
   "disable": ["禁用"],
   "disabled": ["禁用的"],
   "discrete": ["离散的"],
+  "discretionary access control": ["dac", "自主访问控制"],
   "dish": ["菜式"],
   "dispatch": ["dispatch", "分发"],
   "distance": ["距离"],

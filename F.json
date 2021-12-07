@@ -55,6 +55,7 @@
   "分钟": ["minute"],
   "风格指南": ["style guide"],
   "服务": ["service"],
+  "服务端消息推送": ["server-sent events", "sse"],
   "服务端渲染": ["server-side rendering", "ssr"],
   "父母": ["parent"],
   "负载": ["payload"],

@@ -1,5 +1,7 @@
 {
+  "mac": ["mandatory access control", "强制访问控制"],
   "manager": ["经理"],
+  "mandatory access control": ["mac", "强制访问控制"],
   "manifest": ["manifest"],
   "manual": ["手动的"],
   "map": ["地图", "映射"],

@@ -13,6 +13,7 @@
   "浅层": ["shallow"],
   "浅层的": ["shallow"],
   "嵌套的": ["nested"],
+  "强制访问控制": ["mac", "mandatory access control"],
   "切换": ["toggle"],
   "清楚的": ["clear"],
   "清空": ["clear"],

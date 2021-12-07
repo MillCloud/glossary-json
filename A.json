@@ -1,4 +1,5 @@
 {
+  "abac": ["attribute-based access control", "属性访问控制"],
   "abort": ["中止"],
   "absolute": ["绝对的"],
   "accept": ["接受"],
@@ -42,6 +43,7 @@
   "atom": ["atom", "原子"],
   "attr": ["attribute", "属性"],
   "attribute": ["attribute", "属性"],
+  "attribute-based access control": ["abac", "属性访问控制"],
   "authentication": ["认证"],
   "authorization": ["授权"],
   "auto": ["auto", "automatic", "自动的"],
