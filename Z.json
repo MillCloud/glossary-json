@@ -12,8 +12,10 @@
   "账号": ["username"],
   "遮罩": ["mask", "overlay"],
   "折叠": ["collapse"],
+  "哲学": ["philosophy"],
   "侦听": ["watch"],
   "侦听器": ["watcher"],
+  "执行": ["execute", "execution"],
   "值": ["value"],
   "指令": ["directive"],
   "指南": ["guide"],
@@ -29,6 +31,7 @@
   "注水": ["hydrate"],
   "注意": ["note"],
   "转换": ["convert", "parse", "transform", "transformation"],
+  "装饰器": ["decorator"],
   "状态": ["state", "status"],
   "状态管理": ["state management"],
   "状态管理模式": ["state management pattern"],
@@ -59,5 +62,6 @@
   "最佳实践": ["best practices"],
   "最少": ["min"],
   "最小": ["min"],
-  "左": ["left"]
+  "左": ["left"],
+  "作用域": ["scope"]
 }

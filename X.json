@@ -34,6 +34,7 @@
   "行动": ["action"],
   "形状": ["shape"],
   "性能": ["performance"],
+  "修饰器": ["decorator"],
   "虚拟 dom": ["virtual dom"],
   "虚拟的": ["virtual"],
   "虚拟化的": ["virtualized"],
