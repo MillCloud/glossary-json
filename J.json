@@ -9,6 +9,7 @@
   "集成": ["integration"],
   "集合": ["set"],
   "技术选型临界点": ["critical adoption"],
+  "技术债": ["technical debt"],
   "继承": ["inheritance"],
   "加载": ["load"],
   "加载器": ["loader"],
