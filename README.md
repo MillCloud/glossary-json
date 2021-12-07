@@ -10,7 +10,7 @@
 - 如果你了解 JavaScript 生态，建议你使用 Node.js 16，全局安装 prettier `npm i -g --legacy-peer-deps prettier`，并在编辑完成后使用以下命令格式化。
 
 ```sh
-node ./sort.js && prettier ./*.json -w --loglevel=warn && echo "Prettify succeeded."
+node ./format.js && prettier ./*.json -w --loglevel=warn && echo "Prettify succeeded."
 ```
 
 数据来源：
@@ -29,7 +29,5 @@ node ./sort.js && prettier ./*.json -w --loglevel=warn && echo "Prettify succeed
 - [x] [vite](https://cn.vitejs.dev/)
 - [x] [express](https://expressjs.com/zh-cn/)
 - [x] [koa](https://koa.bootcss.com/)
-- [ ] [nest](https://docs.nestjs.cn/)
-- [ ] [AWS](https://aws.amazon.com/)
-- [ ] [阿里云](https://cn.aliyun.com/)
+- [x] [nest](https://docs.nestjs.cn/)
 - [ ] [术语](https://www.termonline.cn/index)
