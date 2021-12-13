@@ -33,6 +33,7 @@
   "老师": ["teacher"],
   "类": ["class"],
   "类型": ["type"],
+  "冷启动": ["cold start"],
   "离散的": ["discrete"],
   "立即的": ["immediate"],
   "例如": ["for example"],

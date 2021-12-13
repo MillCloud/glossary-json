@@ -3,6 +3,7 @@
   "simple": ["简单的"],
   "机制": ["mechanism"],
   "基础": ["basis", "fundamental"],
+  "基础设施即服务": ["iaas", "infrastructure-as-a-service"],
   "激活": ["activate"],
   "激活的": ["activated", "active"],
   "级联选择器": ["cascader"],

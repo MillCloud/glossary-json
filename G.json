@@ -1,5 +1,6 @@
 {
   "close": ["关闭"],
+  "gateway": ["gateway", "网关"],
   "generate": ["生成"],
   "generation": ["代"],
   "generator": ["生成器"],

@@ -1,4 +1,5 @@
 {
+  "faas": ["function-as-a-service", "函数即服务"],
   "fallback": ["降级"],
   "faq": ["frequently asked questions", "常见问题"],
   "fast": ["快速的"],
@@ -30,8 +31,10 @@
   "framework": ["框架"],
   "frequently asked questions": ["faq", "常见问题"],
   "fresh": ["新鲜的"],
+  "frontend": ["前端"],
   "full": ["全部"],
   "function": ["函数"],
+  "function-as-a-service": ["faas", "函数即服务"],
   "functional": ["函数式的"],
   "fundamental": ["基础"],
   "发布": ["publish", "release"],

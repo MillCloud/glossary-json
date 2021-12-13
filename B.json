@@ -1,4 +1,7 @@
 {
+  "baas": ["backend-as-a-service", "后端即服务"],
+  "backend": ["后端"],
+  "backend-as-a-service": ["baas", "后端即服务"],
   "background": ["背景"],
   "badge": ["徽标"],
   "basis": ["基础"],
@@ -51,6 +54,8 @@
   "表达式": ["expression"],
   "表单": ["form"],
   "表格": ["sheet", "table"],
+  "并发": ["concurrency"],
+  "并行": ["parallelism"],
   "不可变的": ["immutable"],
   "不可见的": ["invisible"],
   "不确定的": ["indeterminate"],

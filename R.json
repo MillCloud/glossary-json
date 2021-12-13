@@ -28,6 +28,8 @@
   "remote": ["远程的"],
   "remove": ["移除"],
   "render": ["render", "渲染"],
+  "repo": ["repository", "存储库"],
+  "repository": ["repo", "存储库"],
   "request": ["请求"],
   "reset": ["重置"],
   "resolution": ["解析"],
@@ -60,5 +62,7 @@
   "日历": ["calendar"],
   "日期": ["date"],
   "日期时间": ["datetime"],
-  "入口": ["entry"]
+  "容器即服务": ["caas", "container-as-a-service"],
+  "入口": ["entry"],
+  "软件即服务": ["sass", "software-as-a-service"]
 }
