@@ -16,5 +16,6 @@
   "内容": ["content"],
   "内置的": ["built-in"],
   "昵称": ["nickname"],
+  "逆变": ["contravariant"],
   "年": ["year"]
 }
