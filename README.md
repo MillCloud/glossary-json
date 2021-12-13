@@ -30,4 +30,5 @@ node ./format.js && prettier ./*.json -w --loglevel=warn && echo "Prettify succe
 - [x] [express](https://expressjs.com/zh-cn/)
 - [x] [koa](https://koa.bootcss.com/)
 - [x] [nest](https://docs.nestjs.cn/)
+- [x] [serverless glossary](https://serverlessfirst.com/serverless-glossary/)
 - [ ] [术语](https://www.termonline.cn/index)
