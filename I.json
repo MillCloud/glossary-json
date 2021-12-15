@@ -7,6 +7,7 @@
   "import": ["引入"],
   "inactivated": ["未激活的"],
   "inactive": ["未激活的"],
+  "incremental development": ["增量开发"],
   "incremental site rendering": ["isr", "增量式站点渲染"],
   "indeterminate": ["不确定的"],
   "index": ["首页", "索引"],
@@ -32,8 +33,6 @@
   "instantiation": ["实例化"],
   "integration": ["集成"],
   "interact": ["交互"],
-  "iterative development": ["迭代开发"],
-  "incremental development": ["增量开发"],
   "interaction": ["交互"],
   "interceptor": ["拦截器"],
   "intermediary proxy": ["中间代理"],
@@ -47,5 +46,6 @@
   "invariant": ["不变"],
   "invisible": ["不可见的"],
   "isp": ["internet service provider", "互联网服务供应商"],
-  "isr": ["incremental site rendering", "增量式站点渲染"]
+  "isr": ["incremental site rendering", "增量式站点渲染"],
+  "iterative development": ["迭代开发"]
 }

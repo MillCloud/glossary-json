@@ -25,6 +25,7 @@
   "erroneous": ["错误的"],
   "error": ["错误"],
   "escape hatch": ["应急方案"],
+  "evaluation": ["评估"],
   "event": ["事件"],
   "event-driven": ["事件驱动的"],
   "exact": ["准确的"],
@@ -48,6 +49,5 @@
   "二叉树": ["binary tree"],
   "二叉搜索树": ["binary search tree"],
   "二分查找": ["binary search"],
-  "二分搜索": ["binary search"],
-  "evaluation": ["评估"]
+  "二分搜索": ["binary search"]
 }
