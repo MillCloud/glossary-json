@@ -45,6 +45,8 @@
   "有条件的": ["conditional"],
   "有限的": ["finite"],
   "有限状态机": ["finite state machine"],
+  "有向图": ["directed graph"],
+  "有向无环图": ["dag", "directed acyclic graph"],
   "有状态的": ["stateful"],
   "右": ["right"],
   "语法": ["grammar", "syntax"],

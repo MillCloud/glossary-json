@@ -4,8 +4,10 @@
   "warning": ["警告", "警告的"],
   "watch": ["侦听"],
   "watcher": ["侦听器"],
+  "waterfall": ["瀑布流"],
   "week": ["星期", "周"],
   "weekend": ["周末"],
+  "weighted graph": ["带权图", "加权图"],
   "width": ["宽度"],
   "wildcard character": ["通配符"],
   "word": ["单词"],
@@ -20,8 +22,10 @@
   "文本": ["text"],
   "文档对象模型": ["document object model", "dom"],
   "文件": ["file"],
+  "问题": ["problem", "question"],
   "无服务器的": ["serverless"],
   "无条件的": ["unconditionally"],
   "无限的": ["infinite"],
+  "无向图": ["undirected graph"],
   "无状态的": ["stateless"]
 }

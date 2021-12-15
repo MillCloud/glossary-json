@@ -43,5 +43,11 @@
   "extra large": ["xl", "特别大型的"],
   "extra small": ["xs", "特别小型的"],
   "extract": ["提取"],
-  "额外的": ["extra"]
+  "额外的": ["extra"],
+  "二叉查找树": ["binary search tree"],
+  "二叉树": ["binary tree"],
+  "二叉搜索树": ["binary search tree"],
+  "二分查找": ["binary search"],
+  "二分搜索": ["binary search"],
+  "evaluation": ["评估"]
 }

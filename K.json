@@ -1,6 +1,8 @@
 {
+  "k-nearest neighbours": ["knn", "k 最近邻算法"],
   "key": ["key", "键"],
   "keyword": ["keyword", "关键词"],
+  "knn": ["k-nearest neighbours", "k 最近邻算法"],
   "卡片": ["card"],
   "开发": ["dev", "develop", "development"],
   "开发者": ["developer"],
@@ -10,6 +12,7 @@
   "开箱即用的": ["opinionated"],
   "可编辑的": ["editable"],
   "可变的": ["mutable"],
+  "可查找的": ["searchable"],
   "可复用的": ["reusable"],
   "可关闭的": ["closable"],
   "可过滤的": ["filterable"],
@@ -34,6 +37,8 @@
   "块": ["chunk"],
   "快捷方式": ["shortcut"],
   "快速的": ["fast", "quick"],
+  "快速排序": ["quick sort"],
   "快照": ["snapshot"],
-  "宽度": ["width"]
+  "宽度": ["width"],
+  "k 最近邻算法": ["k-nearest neighbours", "knn"]
 }

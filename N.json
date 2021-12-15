@@ -11,11 +11,17 @@
   "note": ["注意"],
   "notification": ["通知"],
   "notify": ["通知"],
+  "np completeness problem": ["np 完全问题"],
+  "np problem": ["np 问题"],
+  "np-hard problem": ["np 困难问题"],
   "内部的": ["inner", "inside", "internal"],
   "内联的": ["inline"],
   "内容": ["content"],
   "内置的": ["built-in"],
   "昵称": ["nickname"],
   "逆变": ["contravariant"],
-  "年": ["year"]
+  "年": ["year"],
+  "np 困难问题": ["np-hard problem"],
+  "np 完全问题": ["np completeness problem"],
+  "np 问题": ["np problem"]
 }

@@ -44,6 +44,8 @@
   "关联": ["link"],
   "关注点": ["concern"],
   "管道": ["pipe"],
+  "广度优先搜索": ["bfs", "breath first search"],
+  "归并排序": ["merge sort"],
   "归纳": ["reduce"],
   "归纳器": ["reducer"],
   "规范": ["specification"],
@@ -56,7 +58,7 @@
   "国内的": ["internal"],
   "国外的": ["external"],
   "过渡": ["transition"],
-  "过滤": ["filter"],
+  "过滤": ["filter", "percolate"],
   "过滤器": ["filter"],
   "过时": ["legacy"],
   "过时的": ["legacy", "outdated"]
