@@ -59,6 +59,7 @@
   "条纹": ["stripe"],
   "通配符": ["wildcard character"],
   "通用的": ["versatile"],
+  "通用网关接口": ["cgi", "common gateway interface"],
   "通知": ["notification", "notify"],
   "同步": ["sync", "synchronous"],
   "同步的": ["sync", "synchronous"],
