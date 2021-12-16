@@ -62,7 +62,7 @@
   "人民币角": ["jiao"],
   "人民币元": ["yuan"],
   "人体工程学": ["ergonomics"],
-  "认证": ["authentication"],
+  "认证": ["authenticate", "authentication"],
   "日": ["day"],
   "日历": ["calendar"],
   "日期": ["date"],

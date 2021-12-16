@@ -12,7 +12,7 @@
   "占位内容": ["placeholder"],
   "栈": ["stack"],
   "章节": ["section"],
-  "账号": ["username"],
+  "账号": ["account"],
   "遮罩": ["mask", "overlay"],
   "折半查找": ["half-interval search"],
   "折半搜索": ["half-interval search"],
