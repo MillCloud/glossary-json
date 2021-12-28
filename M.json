@@ -1,5 +1,6 @@
 {
   "mac": ["mandatory access control", "强制访问控制"],
+  "macro": ["宏"],
   "manager": ["经理"],
   "mandatory access control": ["mac", "强制访问控制"],
   "manifest": ["manifest"],
@@ -49,6 +50,7 @@
   "name": ["名称"],
   "锚点": ["anchor"],
   "冒泡排序": ["bubble sort"],
+  "枚举": ["enum"],
   "密集": ["power set"],
   "密码": ["password"],
   "幂": ["power"],

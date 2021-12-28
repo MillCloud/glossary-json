@@ -19,6 +19,7 @@
   "ended": ["结束的"],
   "engine": ["引擎"],
   "entry": ["entry", "入口"],
+  "enum": ["枚举"],
   "env": ["environment", "环境"],
   "environment": ["env", "环境"],
   "ergonomics": ["人机工程学", "人体工程学"],

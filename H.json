@@ -31,6 +31,7 @@
   "核心的": ["core"],
   "横切": ["cross-cutting"],
   "红黑树": ["red black tree"],
+  "宏": ["macro"],
   "后端": ["backend"],
   "后端即服务": ["baas", "backend-as-a-service"],
   "后继节点": ["successor node"],
