@@ -66,6 +66,7 @@
   "source": ["源"],
   "spa": ["single page application", "单页应用"],
   "space": ["间距", "空格", "空间"],
+  "sparse": ["稀疏的"],
   "sparses graph": ["稀疏图"],
   "specification": ["规范"],
   "spin": ["旋转"],
@@ -83,6 +84,7 @@
   "state machine": ["状态机"],
   "state management": ["状态管理"],
   "state management pattern": ["状态管理模式"],
+  "state transfer": ["状态转移"],
   "state tree": ["状态树"],
   "stateful": ["有状态的"],
   "stateless": ["无状态的"],
@@ -182,6 +184,7 @@
   "水平的": ["horizontal"],
   "搜索": ["search"],
   "搜索引擎优化": ["search engine optimization", "seo"],
+  "宿主": ["host"],
   "算法": ["algorithm"],
   "缩略图": ["thumbnail"],
   "索引": ["index"]

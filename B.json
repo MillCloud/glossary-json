@@ -1,6 +1,8 @@
 {
+  "b+ tree": ["b+ 树"],
   "baas": ["backend-as-a-service", "后端即服务"],
   "backend": ["后端"],
+  "backend for frontend": ["bff", "服务于前端的后端"],
   "backend-as-a-service": ["baas", "后端即服务"],
   "background": ["背景"],
   "badge": ["徽标"],
@@ -10,6 +12,7 @@
   "began": ["开始的"],
   "begin": ["开始"],
   "best practices": ["最佳实践"],
+  "bff": ["backend for frontend", "服务于前端的后端"],
   "bfs": ["breath first search", "广度优先搜索"],
   "bidirectional bubble sort": ["定向冒泡排序", "双向冒泡排序"],
   "binary search": ["二分查找", "二分搜索"],
@@ -64,6 +67,7 @@
   "表达式": ["expression"],
   "表单": ["form"],
   "表格": ["sheet", "table"],
+  "表述": ["representation"],
   "并发": ["concurrency"],
   "并行": ["parallelism"],
   "不变": ["invariant"],
@@ -76,6 +80,5 @@
   "步骤": ["step"],
   "部分": ["section"],
   "部署": ["deploy", "deployment"],
-  "b+ 树": ["b+ tree"],
-  "b+ tree": ["b+ 树"]
+  "b+ 树": ["b+ tree"]
 }

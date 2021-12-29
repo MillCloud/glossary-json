@@ -24,6 +24,7 @@
   "格式": ["format"],
   "格式化": ["format"],
   "格式化工具": ["formatter"],
+  "隔离性": ["isolation"],
   "根": ["root"],
   "跟踪": ["track"],
   "更新": ["update"],

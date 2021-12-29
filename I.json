@@ -46,6 +46,7 @@
   "invalidation": ["失效"],
   "invariant": ["不变"],
   "invisible": ["不可见的"],
+  "isolation": ["隔离性"],
   "isp": ["internet service provider", "互联网服务供应商"],
   "isr": ["incremental site rendering", "增量式站点渲染"],
   "iterative development": ["迭代开发"]

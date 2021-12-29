@@ -1,5 +1,6 @@
 {
   "faas": ["function-as-a-service", "函数即服务"],
+  "fabric": ["fabric"],
   "factorial function": ["阶乘函数"],
   "fallback": ["降级"],
   "faq": ["frequently asked questions", "常见问题"],

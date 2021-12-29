@@ -71,6 +71,8 @@
   "同步": ["sync", "synchronous"],
   "同步的": ["sync", "synchronous"],
   "统计": ["statistic"],
+  "统一接口": ["uniform interface"],
+  "统一资源定位符": ["uniform resource locator", "url"],
   "桶排序": ["bucket sort"],
   "头部": ["header"],
   "头像": ["avatar"],

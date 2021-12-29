@@ -17,6 +17,7 @@
   "网关": ["gateway"],
   "网络": ["network"],
   "微服务": ["microservice"],
+  "唯一的": ["unique"],
   "未激活的": ["inactivated", "inactive"],
   "位置": ["position"],
   "文本": ["text"],

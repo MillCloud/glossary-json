@@ -48,6 +48,7 @@
   "async": ["async", "asynchronous", "异步", "异步的"],
   "asynchronous": ["async", "异步", "异步的"],
   "atom": ["atom", "原子"],
+  "atomicity": ["原子性"],
   "attr": ["attribute", "属性"],
   "attribute": ["attribute", "属性"],
   "attribute-based access control": ["abac", "属性访问控制"],
