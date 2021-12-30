@@ -12,8 +12,8 @@
   "category": ["类别"],
   "caveat": ["警告"],
   "cd": [
-    "continuous deployment",
     "continuous delivery",
+    "continuous deployment",
     "持续部署",
     "持续交付"
   ],
