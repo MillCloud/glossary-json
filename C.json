@@ -11,7 +11,12 @@
   "cascading style sheets": ["css", "层叠样式表"],
   "category": ["类别"],
   "caveat": ["警告"],
-  "cd": ["continuous deployment", "持续部署", "持续交付"],
+  "cd": [
+    "continuous deployment",
+    "continuous delivery",
+    "持续部署",
+    "持续交付"
+  ],
   "center": ["居中"],
   "centered": ["居中的"],
   "century": ["世纪"],
@@ -126,7 +131,7 @@
   "持久性": ["durability"],
   "持续部署": ["cd", "continuous deployment"],
   "持续集成": ["ci", "continuous integration"],
-  "持续交付": ["continuous delivery"],
+  "持续交付": ["cd", "continuous delivery"],
   "持续时间": ["duration"],
   "尺寸": ["size"],
   "冲突": ["collide", "collision", "conflict"],
