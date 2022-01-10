@@ -24,6 +24,8 @@
   "清楚的": ["clear"],
   "清空": ["clear"],
   "请求": ["request"],
+  "区块": ["block"],
+  "区块链": ["blockchain"],
   "取消": ["cancel"],
   "取消关联": ["unlink"],
   "全部": ["full"],

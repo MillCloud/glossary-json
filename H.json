@@ -30,6 +30,7 @@
   "函数即服务": ["faas", "function-as-a-service"],
   "函数式的": ["functional"],
   "毫秒": ["millisecond"],
+  "合约": ["contract"],
   "核心": ["core"],
   "核心的": ["core"],
   "横切": ["cross-cutting"],

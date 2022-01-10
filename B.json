@@ -21,6 +21,8 @@
   "bind": ["绑定"],
   "binding": ["绑定的"],
   "bivariant": ["双向协变"],
+  "block": ["区块"],
+  "blockchain": ["区块链"],
   "blur": ["失焦"],
   "body": ["身体"],
   "bom": ["browser object model", "浏览器对象模型"],
