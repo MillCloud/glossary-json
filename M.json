@@ -56,6 +56,8 @@
   "幂": ["power"],
   "面板": ["panel"],
   "面包屑": ["breadcrumb"],
+  "面向对象": ["object oriented", "oo"],
+  "面向过程": ["po", "procedure oriented"],
   "描述": ["description"],
   "秒": ["second"],
   "敏捷开发": ["agile development"],

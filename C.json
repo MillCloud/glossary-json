@@ -34,6 +34,10 @@
   "ci": ["continuous integration", "持续集成"],
   "circular linked list": ["循环链表"],
   "class": ["class", "类"],
+  "clean object-oriented and layered architecture": [
+    "cola",
+    "整洁面向对象分层架构"
+  ],
   "clear": ["清楚的", "清空"],
   "clearable": ["可清空的"],
   "click": ["点击"],
@@ -43,7 +47,12 @@
   "cloud": ["云"],
   "cloud native": ["云原生"],
   "cocktail shaker sort": ["鸡尾酒排序"],
+  "code review": ["cr", "代码审查"],
   "col": ["column", "列"],
+  "cola": [
+    "clean object-oriented and layered architecture",
+    "整洁面向对象分层架构"
+  ],
   "cold start": ["冷启动"],
   "collapse": ["折叠"],
   "collide": ["冲突"],
@@ -94,6 +103,7 @@
   "count": ["数量"],
   "counting sort": ["计数排序"],
   "covariant": ["协变"],
+  "cr": ["code review", "代码审查"],
   "create": ["创建"],
   "critical adoption": ["技术选型临界点", "批判性采用"],
   "cross-cutting": ["横切"],
@@ -138,6 +148,7 @@
   "尺寸": ["size"],
   "冲突": ["collide", "collision", "conflict"],
   "抽屉": ["drawer"],
+  "抽象层次一致性": ["single level of abstraction principle", "slap"],
   "初始的": ["initial"],
   "初始化": ["init", "initialize"],
   "处理": ["handle"],

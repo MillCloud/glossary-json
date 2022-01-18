@@ -55,6 +55,7 @@
   "列表": ["list"],
   "邻接表": ["adjacency list"],
   "邻接矩阵": ["adjacency matrix"],
+  "领域驱动设计": ["ddd", "domain driven design"],
   "浏览器": ["browser"],
   "浏览器对象模型": ["bom", "browser object model"],
   "浏览器引擎": ["vendor"],

@@ -70,6 +70,7 @@
   "表单": ["form"],
   "表格": ["sheet", "table"],
   "表述": ["representation"],
+  "表现层状态转换": ["representational state transfer", "rest"],
   "并发": ["concurrency"],
   "并行": ["parallelism"],
   "不变": ["invariant"],

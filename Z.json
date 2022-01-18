@@ -20,6 +20,10 @@
   "哲学": ["philosophy"],
   "侦听": ["watch"],
   "侦听器": ["watcher"],
+  "整洁面向对象分层架构": [
+    "clean object-oriented and layered architecture",
+    "cola"
+  ],
   "正向代理": ["forward proxy"],
   "执行": ["execute", "execution"],
   "值": ["value"],

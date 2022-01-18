@@ -28,6 +28,7 @@
   "异常": ["exception"],
   "易用的": ["approachable"],
   "阴影": ["shadow"],
+  "银弹（比喻可解决复杂问题的简单方案）": ["sliver bullet"],
   "引擎": ["engine", "vendor"],
   "引入": ["import"],
   "引用": ["ref", "reference"],
@@ -81,5 +82,6 @@
   "云原生": ["cloud native"],
   "运算符": ["operator"],
   "运行环境": ["runtime"],
-  "运行时": ["runtime"]
+  "运行时": ["runtime"],
+  "运行时应用自我保护": ["rasp", "runtime application self-protection"]
 }

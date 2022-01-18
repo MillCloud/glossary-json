@@ -1,10 +1,12 @@
 {
   "object": ["对象"],
+  "object oriented": ["oo", "面向对象"],
   "official": ["官方的"],
   "offset": ["偏移"],
   "on-demand": ["按需的"],
   "one-time": ["一次性的"],
   "one-time password": ["动态口令"],
+  "oo": ["object oriented", "面向对象"],
   "operator": ["运算符"],
   "opinionated": ["固执的", "开箱即用的", "自以为是的"],
   "optimization": ["优化"],
