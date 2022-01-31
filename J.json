@@ -65,6 +65,7 @@
   "警告提示": ["alert"],
   "静态的": ["static"],
   "静态网站生成": ["ssg", "static site generation"],
+  "镜像": ["image", "mirror"],
   "居中": ["center"],
   "居中的": ["centered"],
   "局部地": ["locally"],

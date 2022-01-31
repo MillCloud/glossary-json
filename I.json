@@ -1,7 +1,7 @@
 {
   "iaas": ["infrastructure-as-a-service", "基础设施即服务"],
   "icon": ["图标"],
-  "image": ["图片"],
+  "image": ["镜像", "图片"],
   "immediate": ["立即的"],
   "immutable": ["不可变的"],
   "import": ["引入"],
