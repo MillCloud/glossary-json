@@ -31,6 +31,7 @@
   "platform-as-a-service": ["paas", "平台即服务"],
   "plugin": ["插件"],
   "po": ["procedure oriented", "面向过程"],
+  "polymorphism": ["多态"],
   "popconfirm": ["气泡确认框"],
   "popover": ["弹出框"],
   "portal": ["portal", "传送门"],

@@ -12,6 +12,8 @@
   "empty": ["空的"],
   "enable": ["启用"],
   "enabled": ["启用的"],
+  "encapsulate": ["封装"],
+  "encapsulation": ["封装"],
   "encode": ["编码"],
   "encoding": ["编码"],
   "end": ["结束"],

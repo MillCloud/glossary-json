@@ -70,6 +70,7 @@
   "分治": ["divide and conquer"],
   "分钟": ["minute"],
   "风格指南": ["style guide"],
+  "封装": ["encapsulate", "encapsulation"],
   "服务": ["service"],
   "服务端消息推送": ["server-sent events", "sse"],
   "服务端渲染": ["server-side rendering", "ssr"],
