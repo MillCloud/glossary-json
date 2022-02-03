@@ -48,6 +48,7 @@
   "cloud native": ["云原生"],
   "cocktail shaker sort": ["鸡尾酒排序"],
   "code review": ["cr", "代码审查"],
+  "cohesion": ["内聚性"],
   "col": ["column", "列"],
   "cola": [
     "clean object-oriented and layered architecture",

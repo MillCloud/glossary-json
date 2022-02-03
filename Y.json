@@ -15,6 +15,7 @@
   "一次性的": ["one-time"],
   "一致性": ["consistency"],
   "依赖": ["dependency"],
+  "依赖倒置原则": ["dependency inversion principle", "dip"],
   "依赖注入": ["dependency injection"],
   "仪表盘": ["dashboard"],
   "移除": ["remove"],

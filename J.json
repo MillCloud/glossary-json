@@ -41,6 +41,7 @@
   "教师": ["teacher"],
   "阶乘函数": ["factorial function"],
   "接口": ["interface"],
+  "接口隔离原则": ["interface segregation principle", "isp"],
   "接受": ["accept"],
   "节点": ["node"],
   "节流": ["throttle"],

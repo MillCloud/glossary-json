@@ -4,6 +4,7 @@
   "keyword": ["keyword", "关键词"],
   "knn": ["k-nearest neighbours", "k 最近邻算法"],
   "卡片": ["card"],
+  "开闭原则": ["ocp", "open close principle"],
   "开发": ["dev", "develop", "development"],
   "开发者": ["developer"],
   "开关": ["switch"],

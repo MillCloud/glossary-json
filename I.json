@@ -37,6 +37,7 @@
   "interaction": ["交互"],
   "interceptor": ["拦截器"],
   "interface": ["接口"],
+  "interface segregation principle": ["isp", "接口隔离原则"],
   "intermediary proxy": ["中间代理"],
   "internal": ["国内的", "内部的"],
   "international": ["国际的"],
@@ -48,7 +49,12 @@
   "invariant": ["不变"],
   "invisible": ["不可见的"],
   "isolation": ["隔离性"],
-  "isp": ["internet service provider", "互联网服务供应商"],
+  "isp": [
+    "interface segregation principle",
+    "internet service provider",
+    "互联网服务供应商",
+    "接口隔离原则"
+  ],
   "isr": ["incremental site rendering", "增量式站点渲染"],
   "iterative development": ["迭代开发"]
 }
