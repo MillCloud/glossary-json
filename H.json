@@ -48,6 +48,7 @@
   "换行": ["wrap"],
   "徽标": ["badge"],
   "回调": ["callback"],
+  "会员": ["member"],
   "混入": ["mixin"],
   "获取": ["fetch", "get"],
   "行": ["row"],

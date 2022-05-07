@@ -136,6 +136,7 @@
   "身体": ["body"],
   "深度优先搜索": ["depth first search", "dfs"],
   "审计": ["audit"],
+  "升级": ["upgrade"],
   "生产": ["prod", "produce", "production"],
   "生成": ["generate"],
   "生成器": ["generator"],

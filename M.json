@@ -1,6 +1,7 @@
 {
   "mac": ["mandatory access control", "强制访问控制"],
   "macro": ["宏"],
+  "manage": ["管理"],
   "manager": ["经理"],
   "mandatory access control": ["mac", "强制访问控制"],
   "manifest": ["manifest"],
@@ -14,6 +15,7 @@
   "mechanism": ["机制"],
   "median": ["中位数"],
   "medium": ["md", "中型的"],
+  "member": ["会员"],
   "mention": ["提及"],
   "menu": ["菜单"],
   "merge sort": ["归并排序"],

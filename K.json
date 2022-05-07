@@ -25,6 +25,7 @@
   "可选的": ["optional"],
   "可预测的": ["predictable"],
   "可增加的": ["addable"],
+  "客户": ["client"],
   "客户端渲染": ["client side rendering", "csr"],
   "空的": ["empty"],
   "空格": ["space"],

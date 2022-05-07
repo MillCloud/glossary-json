@@ -6,6 +6,7 @@
   "严格的": ["strict"],
   "颜色": ["color"],
   "样式": ["style"],
+  "样式预检": ["preflight"],
   "摇树": ["tree shaking"],
   "叶": ["leaf"],
   "页脚": ["page footer"],

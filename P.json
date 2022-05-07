@@ -45,6 +45,7 @@
   "predefined": ["预定义的"],
   "predictable": ["可预测的"],
   "prefix": ["前缀"],
+  "preflight": ["样式预检"],
   "prerequisites": ["前提条件"],
   "preview": ["预览"],
   "problem": ["问题"],
