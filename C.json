@@ -90,6 +90,7 @@
   "consumer": ["消费者"],
   "container": ["容器"],
   "container-as-a-service": ["caas", "容器即服务"],
+  "containerization": ["容器化"],
   "content": ["内容"],
   "context": ["context", "上下文"],
   "continuous delivery": ["cd", "持续交付"],

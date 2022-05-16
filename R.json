@@ -73,6 +73,7 @@
   "日历": ["calendar"],
   "日期": ["date"],
   "日期时间": ["datetime"],
+  "容器化": ["containerization"],
   "容器即服务": ["caas", "container-as-a-service"],
   "入口": ["entry"],
   "软件即服务": ["sass", "software-as-a-service"]
