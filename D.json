@@ -87,6 +87,7 @@
   "代码审查": ["code review", "cr"],
   "带权图": ["weighted graph"],
   "单词": ["word"],
+  "单独测试": ["individual test", "it"],
   "单个的": ["single"],
   "单链表": ["singly linked list"],
   "单文件组件": ["sfc", "single file component"],

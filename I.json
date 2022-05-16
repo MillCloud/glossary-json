@@ -12,6 +12,7 @@
   "indeterminate": ["不确定的"],
   "index": ["首页", "索引"],
   "indicator": ["指示器"],
+  "individual test": ["it", "单独测试"],
   "infinite": ["无限的"],
   "info": ["information", "信息"],
   "information": ["info", "信息"],
@@ -58,5 +59,6 @@
     "接口隔离原则"
   ],
   "isr": ["incremental site rendering", "增量式站点渲染"],
+  "it": ["individual test", "单独测试"],
   "iterative development": ["迭代开发"]
 }
