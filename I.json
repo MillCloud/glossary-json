@@ -47,7 +47,9 @@
   "invalidate": ["失效"],
   "invalidation": ["失效"],
   "invariant": ["不变"],
+  "inversion of control": ["ioc", "控制反转"],
   "invisible": ["不可见的"],
+  "ioc": ["inversion of control", "控制反转"],
   "isolation": ["隔离性"],
   "isp": [
     "interface segregation principle",

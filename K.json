@@ -31,6 +31,7 @@
   "空格": ["space"],
   "空间": ["space"],
   "控制": ["control"],
+  "控制反转": ["inversion of control", "ioc"],
   "控制器": ["controller"],
   "控制台": ["console"],
   "库": ["library"],
