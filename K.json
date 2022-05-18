@@ -23,6 +23,7 @@
   "可搜索的": ["searchable"],
   "可拖拽的": ["draggable"],
   "可选的": ["optional"],
+  "可用性": ["availability"],
   "可预测的": ["predictable"],
   "可增加的": ["addable"],
   "客户": ["client"],

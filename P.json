@@ -15,6 +15,7 @@
   "parent": ["父母"],
   "parse": ["转换"],
   "partition": ["分割", "分区"],
+  "partition tolerance": ["分隔容忍"],
   "password": ["密码"],
   "payload": ["负载"],
   "percentage": ["百分比"],
