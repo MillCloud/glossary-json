@@ -32,6 +32,7 @@
   "remove": ["移除"],
   "render": ["render", "渲染"],
   "renderer": ["渲染器"],
+  "replica set": ["复制集"],
   "repo": ["repository", "存储库"],
   "repository": ["repo", "存储库"],
   "representation": ["表述"],
