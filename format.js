@@ -27,7 +27,9 @@ try {
             .sort((entryA, entryB) => compare(entryA[0], entryB[0]))
             .map(([key, value]) => [
               key.toLocaleLowerCase(),
-              [...new Set(value.map((item) => item.toLocaleLowerCase()))].sort(compare),
+              [...new Set(value.map((item) => item.toLocaleLowerCase()))].sort(
+                compare
+              ),
             ])
         ),
         null,
@@ -37,5 +39,5 @@ try {
     });
   console.log("Format succeeded.");
 } catch (error) {
-  console.error("Format error: ", error?.message ?? error);
+  console.error(error);
 }
