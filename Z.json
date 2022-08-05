@@ -20,6 +20,7 @@
   "哲学": ["philosophy"],
   "侦听": ["watch"],
   "侦听器": ["watcher"],
+  "真值": ["truthiness"],
   "整洁面向对象分层架构": [
     "clean object-oriented and layered architecture",
     "cola"
@@ -39,6 +40,7 @@
   "周末": ["weekend"],
   "主题": ["theme"],
   "注册": ["register", "registration", "sign up"],
+  "注解": ["annotation"],
   "注入": ["inject"],
   "注水": ["hydrate"],
   "注意": ["note"],
@@ -58,6 +60,7 @@
   "字符串": ["string"],
   "字符集": ["charset"],
   "字号": ["font size"],
+  "字面量": ["literal"],
   "字体": ["font"],
   "字体家族": ["font family"],
   "自定义": ["customize"],

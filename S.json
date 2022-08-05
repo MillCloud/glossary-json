@@ -2,6 +2,7 @@
   "saas": ["software-as-a-service", "软件即服务"],
   "safe": ["安全的"],
   "safety": ["安全"],
+  "sanitize": ["无害化"],
   "scale": ["规模", "伸缩"],
   "schema": ["schema"],
   "scope": ["作用域"],
@@ -120,6 +121,7 @@
   "sync": ["sync", "synchronous", "同步", "同步的"],
   "synchronous": ["sync", "同步", "同步的"],
   "syntax": ["语法"],
+  "system": ["系统"],
   "散列表": ["hash table"],
   "色彩": ["color"],
   "删除": ["delete"],
@@ -142,6 +144,7 @@
   "生成器": ["generator"],
   "生命周期": ["lifecycle"],
   "生态系统": ["ecosystem"],
+  "声明": ["declaration"],
   "声明式的": ["declarative"],
   "省略": ["ellipsis"],
   "失焦": ["blur"],
@@ -163,6 +166,7 @@
   "事务": ["transaction"],
   "视图": ["view"],
   "视图模型": ["view model"],
+  "收窄": ["narrow"],
   "手动的": ["manual"],
   "手风琴": ["accordion"],
   "手机": ["mobile"],
@@ -195,5 +199,6 @@
   "宿主": ["host"],
   "算法": ["algorithm"],
   "缩略图": ["thumbnail"],
-  "索引": ["index"]
+  "索引": ["index"],
+  "无害化": ["sanitize"]
 }

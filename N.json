@@ -1,5 +1,6 @@
 {
   "name": ["名称", "命名"],
+  "narrow": ["收窄"],
   "native": ["原生", "原生的"],
   "nav": ["navigation", "导航"],
   "navigation": ["nav", "导航"],
@@ -21,6 +22,8 @@
   "内置的": ["built-in"],
   "昵称": ["nickname"],
   "逆变": ["contravariant"],
+  "匿名的": ["anonymous"],
+  "匿名函数": ["anonymous function"],
   "年": ["year"],
   "np 困难问题": ["np-hard problem"],
   "np 完全问题": ["np completeness problem"],

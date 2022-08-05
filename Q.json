@@ -24,6 +24,7 @@
   "清楚的": ["clear"],
   "清空": ["clear"],
   "请求": ["request"],
+  "穷尽": ["exhaustiveness"],
   "区块": ["block"],
   "区块链": ["blockchain"],
   "取消": ["cancel"],

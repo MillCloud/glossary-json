@@ -32,7 +32,7 @@
   "渐进式的": ["progressive"],
   "键": ["key"],
   "箭头": ["arrow"],
-  "降级": ["fallback"],
+  "降级": ["downgrade", "downlevel", "fallback"],
   "交互": ["interact", "interaction"],
   "角色": ["role"],
   "角色访问控制": ["rbac", "role-based access control"],

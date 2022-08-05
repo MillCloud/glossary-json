@@ -15,7 +15,7 @@
   "mechanism": ["机制"],
   "median": ["中位数"],
   "medium": ["md", "中型的"],
-  "member": ["会员"],
+  "member": ["成员", "会员"],
   "mention": ["提及"],
   "menu": ["菜单"],
   "merge sort": ["归并排序"],
@@ -66,6 +66,7 @@
   "敏捷开发": ["agile development"],
   "敏捷软件开发": ["agile software development"],
   "明亮的": ["light"],
+  "明确的": ["explicit"],
   "命令": ["command"],
   "命名": ["name"],
   "模板": ["template"],
@@ -76,6 +77,7 @@
   "模式": ["mode"],
   "模态框": ["modal"],
   "模型": ["model"],
+  "抹除": ["erase"],
   "默认的": ["default"],
   "目标": ["target"]
 }

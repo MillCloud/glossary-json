@@ -49,6 +49,7 @@
   "preflight": ["样式预检"],
   "prerequisites": ["前提条件"],
   "preview": ["预览"],
+  "primitive": ["原始类型"],
   "problem": ["问题"],
   "procedure oriented": ["po", "面向过程"],
   "process": ["进程"],

@@ -23,6 +23,7 @@
   "first": ["第一"],
   "first in first out": ["fifo", "先入先出"],
   "first in last out": ["filo", "先入后出"],
+  "flow": ["流"],
   "focus": ["聚焦"],
   "font": ["字体"],
   "font family": ["字体家族"],
@@ -48,6 +49,8 @@
   "反馈": ["feedback"],
   "反向代理": ["reverse proxy"],
   "反转": ["reverse"],
+  "返回": ["return"],
+  "返回值": ["return"],
   "范围": ["range"],
   "方向": ["direction"],
   "方形的": ["square"],
@@ -67,6 +70,7 @@
   "分离": ["split"],
   "分区": ["partition"],
   "分数": ["score"],
+  "分析": ["analysis"],
   "分页": ["paginate", "pagination"],
   "分支": ["branch"],
   "分治": ["divide and conquer"],
@@ -86,5 +90,6 @@
   "复制集": ["replica set"],
   "副标题": ["subtitle"],
   "副作用": ["effect"],
+  "赋值": ["assign", "assignment"],
   "覆盖": ["override"]
 }
