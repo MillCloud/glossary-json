@@ -27,9 +27,13 @@ try {
             .sort((entryA, entryB) => compare(entryA[0], entryB[0]))
             .map(([key, value]) => [
               key.toLocaleLowerCase(),
-              [...new Set(value.map((item) => item.toLocaleLowerCase()))].sort(
-                compare
-              ),
+              Array.isArray(value)
+                ? [
+                    ...new Set(value.map((item) => item.toLocaleLowerCase())),
+                  ].sort(compare)
+                : typeof value === "string"
+                ? value.split(",")
+                : [""],
             ])
         ),
         null,
