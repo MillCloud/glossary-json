@@ -4,6 +4,7 @@
   "image": ["镜像", "图片"],
   "immediate": ["立即的"],
   "immutable": ["不可变的"],
+  "implementation signature": ["实现签名"],
   "implicit": ["隐式的"],
   "import": ["引入"],
   "inactivated": ["未激活的"],

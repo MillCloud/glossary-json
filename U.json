@@ -16,6 +16,7 @@
   "unit test": ["单元测试"],
   "unlink": ["取消关联"],
   "unreachable": ["不可到达的"],
+  "untyped": ["无类型的"],
   "unweighted graph": ["非加权图"],
   "update": ["更新"],
   "upgrade": ["升级"],

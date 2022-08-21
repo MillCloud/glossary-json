@@ -1,6 +1,8 @@
 {
   "object": ["对象"],
   "object oriented": ["oo", "面向对象"],
+  "observe": ["观察"],
+  "observer": ["观察者"],
   "ocp": ["open close principle", "开闭原则"],
   "official": ["官方的"],
   "offset": ["偏移"],
@@ -15,12 +17,15 @@
   "optimize": ["优化"],
   "option": ["选项"],
   "optional": ["可选的"],
+  "optional parameter": ["可选参数"],
   "optional property": ["可选属性"],
   "outdated": ["过时的"],
   "outer": ["外部的"],
   "output": ["output", "输出"],
   "outside": ["外部的"],
   "overlay": ["遮罩"],
+  "overload": ["重载"],
+  "overload signature": ["重载签名"],
   "override": ["覆盖"],
   "overview": ["概览"]
 }
